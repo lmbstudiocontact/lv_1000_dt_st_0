@@ -2,251 +2,834 @@
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/weekly_lv_1000_it.json",
     "id_item": "weekly_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "weekly",
+    "list_vietnam": [
+      "(xảy ra, có thể trả, xuất bản..) mỗi tuần một lần; hàng tuần",
+      "tuần báo; báo hàng tuần"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/week_lv_1000_it.json",
     "id_item": "week_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "week",
+    "list_vietnam": [
+      "(viết tắt) wk tuần, tuần lễ (thời gian bảy ngày)",
+      "tuần (sáu ngày trừ chủ nhật)",
+      "tuần năm ngày (trừ chủ nhật và thứ bảy)",
+      "thời gian làm việc trong một tuần"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/weep_lv_1000_it.json",
     "id_item": "weep_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "weep",
+    "list_vietnam": [
+      "nhỏ nước mắt; khóc",
+      "có cành rủ xuống (cây)",
+      "(vết thương) chảy hoặc rỉ nước, nhất là mủ",
+      "khóc về, khóc than về, khóc cho"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/weight_lv_1000_it.json",
     "id_item": "weight_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "weight",
+    "list_vietnam": [
+      "(viết tắt) wt trọng lượng, sức nặng",
+      "tính chất nặng, sức nặng",
+      "quả cân",
+      "vật nặng (nhất là vật dùng để kéo xuống hoặc giữ cái gì)",
+      "(thể dục,thể thao) hạng (võ sĩ); tạ",
+      "(kiến trúc); (kỹ thuật) tải trọng, sức nặng, khối nặng phải đỡ",
+      "(nghĩa bóng) gánh nặng (của trách nhiệm, sự lo lắng)",
+      "(vật lý) trọng lực (lực của sức hút kéo một cơ thể xuống)",
+      "đơn vị hoặc hệ thống các đơn vị dùng để đo lường và biểu hiện trọng lượng",
+      "(nghĩa bóng) trọng lượng, tác dụng, mức quan trọng, mức nghiêm trọng, ảnh hưởng",
+      "buộc thêm vật nặng, làm nặng thêm",
+      "(kỹ thuật) xử lý sợi bằng chất vô cơ cho nó nặngthêm",
+      "hoạch định hoặc tổ chức cái gì theo cách tạo thuận lợi cho một người hoặc nhóm người cụ thể"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/welcome_lv_1000_it.json",
     "id_item": "welcome_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "welcome",
+    "list_vietnam": [
+      "được tiếp nhận với niềm vui thích hoặc mang đến niềm vui thích",
+      "được phép tự do lấy hoặc làm cái gì; cứ tự nhiên, cứ việc",
+      "được phép tự do lấy hoặc làm cái gì vì người nói không muốn có điều đó hoặc làm điều đó; xin cứ tự nhiên",
+      "(lời chào của một người đã ở một nơi đối với người đến) hoan nghênh!",
+      "sự chào đón ân cần, sự tiếp đãi ân cần; sự hoan nghênh",
+      "chào ai lúc anh ta đến",
+      "thể hiện hoặc cảm thấy vui mừng về cái gì",
+      "phản ứng đối với cái gì theo một cách cụ thể"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/well_lv_1000_it.json",
     "id_item": "well_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "well",
+    "list_vietnam": [
+      "( + up , out , forth ) phun ra, vọt ra, tuôn ra (nước, nước mắt, máu)",
+      "tốt, giỏi, hay",
+      "phong lưu, sung túc",
+      "hợp lý, chính đáng, phải, đúng",
+      "nhiều",
+      "kỹ, rõ, sâu sắc",
+      "tốt; tốt lành",
+      "tốt, hay, đúng lúc, hợp thời, nên, cần",
+      "khoẻ, mạnh khoẻ, mạnh giỏi",
+      "may, may mắn",
+      "quái, lạ quá (dùng để diễn đạt sự ngạc nhiên)",
+      "ôi, may quá (dùng để diễn đạt sự khây khoả)",
+      "đấy, thế đấy",
+      "thế nào, sao",
+      "thôi, hết rồi (dùng để diễn đạt sự cam chịu) (như) oh well",
+      "thôi được (dùng khi (như) ợng bộ một điểm trong tranh luận..)",
+      "được rồi (dùng để diễn đạt sự đồng ý hoặc hiểu) (như) very well",
+      "nào (dùng khi muốn tiếp tục câu chuyện.. hoặc thay đổi đề tài sau khi tạm ngưng)",
+      "ờ, vậy thì (dùng để diễn đạt sự ngần ngại, nghi ngờ..)",
+      "điều tốt, điều hay, điều lành, điều thiện",
+      "giếng (nước, dầu...)",
+      "(nghĩa bóng) nguồn (cảm hứng, hạnh phúc)",
+      "(kiến trúc) lồng cầu thang",
+      "lọ (mực)",
+      "(hàng hải) khoang cá (trong thuyền đánh cá); buồng máy bơm (trên tàu)",
+      "chỗ ngồi của các luật sư (toà án)",
+      "(hàng không) chỗ phi công ngồi",
+      "(địa lý,địa chất) nguồn nước, suối nước",
+      "(ngành mỏ) hầm, lò"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/west_lv_1000_it.json",
     "id_item": "west_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "west",
+    "list_vietnam": [
+      "( the west ) (viết tắt) W hướng tây, phương tây; một trong bốn hướng chính của la bàn",
+      "( the West ) phương Tây (các nước không cộng sản ở châu Âu và châu Mỹ)",
+      "( the West ) Tây phương (châu Âu tương phản với các nước phương Đông)",
+      "( the West ) phía tây của nước Mỹ",
+      "theo phía tây, hướng về phía tây",
+      "thổi từ hướng tây (gió)",
+      "về hướng tây; ở phía tây"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wet_lv_1000_it.json",
     "id_item": "wet_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wet",
+    "list_vietnam": [
+      "ướt, đẫm nước, ẩm ướt",
+      "ẩm ướt, có mưa (thời tiết..)",
+      "chưa khô, còn ướt (mực, sơn, chất dẻo...)",
+      "(thông tục) say bí tỉ",
+      "(thông tục) thiếu mục đích, thiếu tinh thần, vô tích sự, thiếu quyết đoán; đần",
+      "(từ Mỹ,nghĩa Mỹ) không cấm bán rượu, không chủ trương cấm rượu (người, thành phố, bang)",
+      "( the wet ) thời tiết ẩm ướt; mưa",
+      "tình trạng ẩm ướt",
+      "người tẻ nhạt, người nhu nhược; nhà chính trị ưa thích các tính chất dung hoà hơn các chính sách cực đoan",
+      "(từ lóng) ngụm nước nhấp giọng; cốc rượu",
+      "(từ Mỹ,nghĩa Mỹ) người phản đối sự cấm rượu",
+      "làm ẩm, làm ẩm ướt, làm ướt, thấm nước, dấp nước",
+      "uống rượu mừng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/what_lv_1000_it.json",
     "id_item": "what_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "what",
+    "list_vietnam": [
+      "(dùng để đề nghị ai chỉ rõ một hay nhiều vật, địa điểm, con người... trong số chưa xác định); gì",
+      "những (vật hoặc người) mà",
+      "(dùng để chỉ sự không tin hoặc ngạc nhiên)",
+      "(dùng khi mình không nghe được những điều ai đó nói)",
+      "(dùng để đề nghị ai chỉ rõ một hay nhiều vật... trong số chưa xác định)",
+      "những thứ mà"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wheel_lv_1000_it.json",
     "id_item": "wheel_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wheel",
+    "list_vietnam": [
+      "bánh xe (ở xe bò. xe ô tô...)",
+      "(nhất là trong các từ ghép) bất cứ loại nào trong một loại máy mà bánh xe là bộ phận thiết yếu",
+      "(như) steering wheel",
+      "sự quay, sự chuyển động vòng (nhất là chuyển động của một hàng binh lính một đầu giẫm chân tại chỗ, một đầu quay)",
+      "( số nhiều) hệ thống bánh xe (của máy...)",
+      "xe hình (để buộc tội nhân vào mà đánh)",
+      "(nghĩa bóng) sự thăng trầm",
+      "(nghĩa bóng) bộ máy, bánh xe",
+      "đẩy, kéo (xe có bánh)",
+      "chở ( ai/cái gì) trong xe có bánh",
+      "(làm cho) chuyển động vòng hoặc vòng tròn",
+      "( to wheel round / around ) quay tròn và hướng về đường khác"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/when_lv_1000_it.json",
     "id_item": "when_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "when",
+    "list_vietnam": [
+      "vào lúc nào, vào dịp nào, khi nào, hồi nào, bao giờ",
+      "(dùng sau time , day , month ...) vào lúc đó; mà",
+      "khi, lúc, hồi",
+      "bởi vì, thấy rằng, khi mà"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/where_lv_1000_it.json",
     "id_item": "where_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "where",
+    "list_vietnam": [
+      "đâu, ở đâu, ở nơi nào, ở chỗ nào, ở phía nào, ở mặt nào",
+      "(dùng sau từ hoặc nhóm từ nói về một địa điểm) tại, ở trong hoặc tới nơi nào",
+      "tại nơi nào đó, ở đó",
+      "tại chỗ nào đó, ở nơi mà",
+      "nơi chốn, địa điểm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/whether_lv_1000_it.json",
     "id_item": "whether_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "whether",
+    "list_vietnam": [
+      "(sau know , doubt , wonder ...) được hay không",
+      "(sau tính từ và giới từ)",
+      "(dùng (như) chủ ngữ hoặc bổ ngữ của câu)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/which_lv_1000_it.json",
     "id_item": "which_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "which",
+    "list_vietnam": [
+      "(dùng để đề nghị ai chỉ rõ một hoặc nhiều người hoặc vật trong một số lượng hạn chế) cái nào; người nào",
+      "người hoặc vật nào (trong một số lượng hạn chế)",
+      "(dùng để nhắc tới cái gì trước đó đã nói tới)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/while_lv_1000_it.json",
     "id_item": "while_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "while",
+    "list_vietnam": [
+      "(khoảng) thời gian",
+      "( to while something away)",
+      "trong thời gian mà; vào lúc mà; khi",
+      "trong khi đó (chỉ sự tương phản)",
+      "mặc dù"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/white_lv_1000_it.json",
     "id_item": "white_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "white",
+    "list_vietnam": [
+      "trắng, bạch, bạc",
+      "tái mét, xanh nhợt, trắng bệch",
+      "trong, không màu sắc (nước, không khí...)",
+      "(nghĩa bóng) ngây thơ, trong trắng; tinh, sạch, sạch sẽ; (nghĩa bóng) vô tội",
+      "(chính trị) (thuộc) phái quân chủ; phản cách mạng, phản động",
+      "màu trắng",
+      "sắc tái, sự tái nhợt",
+      "vải trắng, quần áo trắng, đồ trắng",
+      "lòng trắng (trứng); tròng trắng (mắt)",
+      "bột trắng (mì, đại mạch...)",
+      "người da trắng",
+      "(y học) khí hư"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wholesale_lv_1000_it.json",
     "id_item": "wholesale_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wholesale",
+    "list_vietnam": [
+      "(thương nghiệp) sự bán buôn, sự bán sỉ",
+      "(thương nghiệp) buôn, sỉ",
+      "(nghĩa bóng) quy mô lớn; hàng loạt, hàng đống",
+      "bán buôn, bán sỉ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/whole_lv_1000_it.json",
     "id_item": "whole_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "whole",
+    "list_vietnam": [
+      "bình an vô sự, không suy suyển, không hư hỏng",
+      "đầy đủ, nguyên vẹn, nguyên chất, trọn vẹn, toàn bộ",
+      "(từ cổ,nghĩa cổ) khoẻ mạnh",
+      "toàn bộ, tất cả, toàn thể",
+      "(toán học) tổng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/whose_lv_1000_it.json",
     "id_item": "whose_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "whose",
+    "list_vietnam": [
+      "của ai",
+      "của ai; của cái gì"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/who_lv_1000_it.json",
     "id_item": "who_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "who",
+    "list_vietnam": [
+      "ai; người nào; kẻ nào",
+      "(thông tục) dùng làm bổ ngữ của một động từ hoặc giới từ",
+      "trong mệnh đề xác định danh từ đứng trước",
+      "trong mệnh đề không xác định danh từ đứng trước",
+      "dùng làm bổ ngữ cho một động từ hoặc giới từ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/why_lv_1000_it.json",
     "id_item": "why_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "why",
+    "list_vietnam": [
+      "tại sao, vì sao",
+      "(đứng trước một động từ để cho thấy rằng cái gì là không thể chấp nhận được hoặc không cần thiết) sao lại phải",
+      "(đặc biệt là sau reason ) vì (lý do) gì",
+      "sao!, thế nào!",
+      "( the whys and the wherefores ) những lý do"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wide_lv_1000_it.json",
     "id_item": "wide_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wide",
+    "list_vietnam": [
+      "rộng, rộng lớn",
+      "mở rộng, mở to",
+      "(nghĩa bóng) rộng, uyên bác (học vấn)",
+      "(nghĩa bóng) rộng rãi, phóng khoáng, không có thành kiến (tư tưởng)",
+      "xa, cách xa",
+      "xảo trá",
+      "rộng, rộng rãi, rộng khắp",
+      "xa, trệch xa",
+      "(viết tắt) w (thể dục,thể thao) quả bóng cách xa đích ( crickê)",
+      "( the wide ) vũ trụ bao la"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/width_lv_1000_it.json",
     "id_item": "width_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "width",
+    "list_vietnam": [
+      "tính chất rộng",
+      "bề rộng, bề ngang",
+      "khổ (vải)",
+      "(nghĩa bóng) tính chất rộng rãi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wife_lv_1000_it.json",
     "id_item": "wife_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wife",
+    "list_vietnam": [
+      "vợ",
+      "(từ cổ,nghĩa cổ) người đàn bà; bà già"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wild_lv_1000_it.json",
     "id_item": "wild_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wild",
+    "list_vietnam": [
+      "dại, hoang (ở) rừng",
+      "chưa thuần; chưa dạn người (thú, chim)",
+      "man rợ, man di, chưa văn minh",
+      "hoang vu, không người ở",
+      "dữ dội, bão táp",
+      "rối, lộn xộn, lung tung",
+      "điên, điên cuồng, nhiệt liệt",
+      "ngông cuồng, rồ dại, liều mạng, thiếu đắn đo suy nghĩ, bừa bãi",
+      "tự do, bừa bãi, phóng túng, lêu lổng",
+      "vu vơ, bừa bãi, lung tung",
+      "vùng hoang vu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/will_lv_1000_it.json",
     "id_item": "will_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "will",
+    "list_vietnam": [
+      "ý chí, chí, ý định, lòng",
+      "sự hăng say; sự quyết chí, sự quyết tâm",
+      "nguyện vọng, ý muốn; ý thích",
+      "(pháp lý) di chúc, chúc thư (như) testament",
+      "tỏ ý chí; có quyết chí",
+      "định",
+      "buộc, bắt buộc",
+      "(pháp lý) để lại bằng chức thư",
+      "muốn",
+      "thuận, bằng lòng",
+      "thường vẫn",
+      "nếu, giá mà, ước rằng",
+      "phải, tất nhiên; ắt là, hẳn là, chắc là",
+      "nhất định sẽ",
+      "sẽ (tương lai)",
+      "có thể"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/window_lv_1000_it.json",
     "id_item": "window_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "window",
+    "list_vietnam": [
+      "cửa sổ",
+      "một khoang hở giống như cửa sổ (về hình dạng và chức năng)",
+      "tấm kính gắn vào khung cửa sổ",
+      "ô kính bày hàng",
+      "cửa sổ, hình biểu hiện (trong máy tính)",
+      "(quân sự), (hàng không) vật thả xuống để nhiễu xạ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/windy_lv_1000_it.json",
     "id_item": "windy_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "windy",
+    "list_vietnam": [
+      "lộng gió, có nhiều gió",
+      "gió lộng, phơi ra trước gió (nhất là gió mạnh)",
+      "có gió, lắm gió, lộng gió; gây ra bởi gió",
+      "(y học) đầy hơi",
+      "(thông tục) dài dòng, trống rỗng, huênh hoang; ba hoa",
+      "(thông tục) sợ hãi, lo lắng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wind_lv_1000_it.json",
     "id_item": "wind_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wind",
+    "list_vietnam": [
+      "( wind , the wind ) gió",
+      "mùi do gió đưa đi",
+      "hơi thở (đặc biệt cần thiết khi tập thể dục liên tục hoặc để thổi một nhạc khí hơi)",
+      "phương gió, phía gió thổi",
+      "( số nhiều) các phương trời",
+      "(y học) sự đầy hơi, sự đầy bụng (không khí bị nuốt vào cùng lúc ăn hoặc uống hoặc hơi hình thành trong dạ dày hoặc trong ruột gây nên sự khó ở)",
+      "(giải phẫu) ức",
+      "lời rỗng tuếch; chuyện rỗng tuếch, câu chuyện khoác lác vô bổ",
+      "( the wind ) (âm nhạc) sự chơi nhạc khí hơi trong ban nhạc (kèn, sáo..); nhạc công chơi nhạc khí hơi trong ban nhạc",
+      "đánh hơi",
+      "làm cho thở hổn hển, làm mệt đứt hơi",
+      "vuốt lưng (em bé) cho ợ tiêu",
+      "để cho nghỉ lấy hơi, để cho thở",
+      "thổi",
+      "khúc uốn, khúc lượn (của con sông)",
+      "khúc cong, khúc quanh (trong một tiến trình, đường đi...)",
+      "một vòng quay khi vặn",
+      "cuộn, quấn, xoắn",
+      "lượn, uốn khúc",
+      "bọc, choàng",
+      "(kỹ thuật) quay; trục lên bằng cách quay",
+      "lên dây (đồng hồ)",
+      "(điện học) quấn dây",
+      "quấn lại, cuộn lại (con rắn...)",
+      "quanh co, uốn khúc",
+      "(kỹ thuật) vênh (tấm ván)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wing_lv_1000_it.json",
     "id_item": "wing_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wing",
+    "list_vietnam": [
+      "(động vật học); (thực vật học) cánh (chim, sâu bọ; quả, hạt)",
+      "sự bay, sự cất cánh; (nghĩa bóng) sự bay bổng",
+      "(kiến trúc) cánh, chái (nhà)",
+      "cánh (máy bay, quạt)",
+      "(hàng hải) mạn (tàu)",
+      "( số nhiều) (sân khấu) cánh gà",
+      "(quân sự) cánh",
+      "phi đội (không quân Anh); ( số nhiều) phù hiệu phi công",
+      "(thể dục,thể thao) biên",
+      "(đùa cợt) cánh tay (bị thương)",
+      "(thông tục) sự che chở, sự bảo trợ",
+      "lắp lông vào (mũi tên)",
+      "thêm cánh, chắp cánh; làm cho nhanh hơn",
+      "bay, bay qua",
+      "bắn ra",
+      "bắn trúng cánh (con chim); (thông tục) bắn trúng cánh tay",
+      "(kiến trúc) làm thêm chái",
+      "(quân sự) bố phòng ở cánh bên"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/winter_lv_1000_it.json",
     "id_item": "winter_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "winter",
+    "list_vietnam": [
+      "mùa đông",
+      "(thơ ca) năm, tuổi",
+      "(thơ ca) lúc tuổi già",
+      "(thuộc) mùa đông; như mùa đông, thích hợp cho mùa đông",
+      "trú đông, tránh rét",
+      "trải qua mùa đông, nghỉ đông (cây cỏ...)",
+      "đưa đi trú đông, đưa đi tránh rét"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/win_lv_1000_it.json",
     "id_item": "win_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "win",
+    "list_vietnam": [
+      "sự thắng cuộc; bàn thắng",
+      "chiếm, đoạt, thu được, nhận được, kiếm được, có được",
+      "thắng cuộc; thắng",
+      "thu phục, tranh thủ, lôi kéo",
+      "đạt đến, đến",
+      "thắng cuộc, thắng trận",
+      "( + upon ) càng ngày càng lôi kéo; thuyết phục được"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wire_lv_1000_it.json",
     "id_item": "wire_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wire",
+    "list_vietnam": [
+      "dây (kim loại)",
+      "khung, thanh chắn bằng dây kim loại",
+      "bức điện tín",
+      "bọc bằng dây sắt",
+      "buộc bằng dây sắt",
+      "chăng lưới thép (cửa sổ)",
+      "xỏ vào dây thép",
+      "bẫy (thỏ, chim...) bằng dây thép",
+      "đánh điện",
+      "(điện học) mắc (dây) điện, bắt điện",
+      "đánh điện"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wish_lv_1000_it.json",
     "id_item": "wish_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wish",
+    "list_vietnam": [
+      "sự ước mong, sự mong mỏi; lòng mong muốn, lòng ao ước, lòng thèm muốn",
+      "( số nhiều) lời chúc; những hy vọng cho hạnh phúc, những hy vọng cho sức khoẻ của ai",
+      "ý muốn; lệnh",
+      "điều mong ước, nguyện vọng",
+      "ước gì, phải chi",
+      "yêu cầu; muốn, mong, hy vọng",
+      "chúc (nói là mình mong cho ai sẽ có được cái gì)",
+      "chào, chào mừng",
+      "cầu ước",
+      "( + for ) ước mong"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/withdraw_lv_1000_it.json",
     "id_item": "withdraw_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "withdraw",
+    "list_vietnam": [
+      "rút, rút khỏi",
+      "rút, rút lui",
+      "rút (tiền)",
+      "rút lại (lời đề nghị, lời hứa..)",
+      "rời khỏi, rút khỏi",
+      "(pháp lý) sự huỷ bỏ; sự thu hồi",
+      "kéo (màn)",
+      "rút lui (khỏi một nơi)",
+      "(quân sự) rút quân",
+      "ra, rút ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/withhold_lv_1000_it.json",
     "id_item": "withhold_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "withhold",
+    "list_vietnam": [
+      "từ chối không cho, từ chối không làm",
+      "giấu",
+      "kìm lại, nín",
+      "ngăn cản, giữ lại, thu lại; thu (cái gì) về",
+      "(pháp lý) chiếm giữ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/withstand_lv_1000_it.json",
     "id_item": "withstand_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "withstand",
+    "list_vietnam": [
+      "giữ vững, trụ lại, cưỡng lại, chịu đựng, chống lại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/with_lv_1000_it.json",
     "id_item": "with_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "with",
+    "list_vietnam": [
+      "(viết tắt) w với, cùng, cùng với với sự hiện diện, cùng với sự hiện diện",
+      "trong sự chăm sóc của, trong sự quản lý của, trong sự sở hữu của (ai)",
+      "có, đang mang (cái gì)",
+      "ở, ở nơi",
+      "bằng (chỉ rõ công cụ và phương tiện được dùng)",
+      "đồng ý với, ủng hộ",
+      "(chỉ cách, trường hợp hoặc hoàn cảnh cái gì được hoàn thành hoặc xảy ra)",
+      "đối lập với, phản đối",
+      "vì, bởi vì",
+      "mặc dầu",
+      "cũng như",
+      "nay mà, lúc mà, trong khi",
+      "cùng chiều với, cùng hướng với",
+      "do và cùng tốc độ với",
+      "về mặt, đối với, liên quan đến",
+      "trong trường hợp; đối với, về phần",
+      "và cũng, kể cả, bao gồm",
+      "là người làm thuê cho, là khách hàng của (một tổ chức)",
+      "(chỉ rõ sự tách rời khỏi cái gì/ai)",
+      "vì rằng, xét đến, cân nhắc, suy xét (một sự việc này trong mối quan hệ với một sự việc khác)",
+      "dù, dù cho, mặc dù, bất chấp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/woman_lv_1000_it.json",
     "id_item": "woman_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "woman",
+    "list_vietnam": [
+      "đàn bà, phụ nữ, người phụ nữ đã trưởng thành",
+      "mụ (một kiểu nói xúc phạm)",
+      "(không có a hoặc the ) nữ giới; phụ nữ (nói chung)",
+      "( the woman ) nữ tính; tính cách người phụ nữ",
+      "(từ cổ,nghĩa cổ) bà hầu cận (của vua, của một nhà quý tộc)",
+      "(tạo thành danh từ ghép)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wonder_lv_1000_it.json",
     "id_item": "wonder_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wonder",
+    "list_vietnam": [
+      "vật kỳ diệu, kỳ quan, vật phi thường; điều kỳ lạ, điều kỳ diệu; kỳ công",
+      "người kỳ diệu, thần đồng",
+      "sự ngạc nhiên, sự kinh ngạc",
+      "ngạc nhiên, lấy làm lạ, kinh ngạc",
+      "muốn biết, tự hỏi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wood_lv_1000_it.json",
     "id_item": "wood_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wood",
+    "list_vietnam": [
+      "gỗ (chất có xơ cứng trong thân và cành cây, ngoài có lớp vỏ bọc)",
+      "gỗ, củi",
+      "loại gỗ đặc biệt",
+      "( (thường) số nhiều) rừng cây (một vùng đất có nhiều cây trồng, không rộng (như) rừng)",
+      "(thể dục thể thao) (như) bowl",
+      "gậy đánh gôn có đầu bằng gỗ",
+      "thùng gỗ (đựng rượu)",
+      "(âm nhạc) ( the wood ) kèn sáo bằng gỗ",
+      "bằng gỗ",
+      "(thuộc) rừng",
+      "cung cấp củi; lấy củi",
+      "trồng rừng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/word_lv_1000_it.json",
     "id_item": "word_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "word",
+    "list_vietnam": [
+      "từ",
+      "lời nói, lời (nhận xét, tuyên bố..)",
+      "lời báo tin, tin tức, lời nhắn",
+      "lời hứa, lời",
+      "lệnh, khẩu hiệu",
+      "( số nhiều) sự cãi nhau, lời qua tiếng lại",
+      "phát biểu, nói lên, bày tỏ, diễn đạt bằng lời lẽ riêng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/work_lv_1000_it.json",
     "id_item": "work_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "work",
+    "list_vietnam": [
+      "(viết tắt) wk sự làm việc; việc, công việc, công tác",
+      "nơi làm việc, cơ quan, sở làm",
+      "việc làm; nghề nghiệp",
+      "đồ làm ra, sản phẩm",
+      "tác phẩm",
+      "công trình xây dựng, công việc xây dựng",
+      "dụng cụ, đồ dùng, vật liệu",
+      "kiểu trang trí, cách trang trí (đồ thêu, may, đan, đồ da...)",
+      "(kỹ thuật) máy, cơ cấu",
+      "( số nhiều) xưởng, nhà máy",
+      "lao động, nhân công",
+      "(quân sự) pháo đài, công sự",
+      "( số nhiều) (hàng hải) phần tàu",
+      "(vật lý) công",
+      "(địa lý,địa chất) tác dụng",
+      "(nghĩa bóng) việc làm, hành động",
+      "làm việc",
+      "hành động, hoạt động, làm",
+      "gia công, chế biến",
+      "lên men",
+      "tác động, có ảnh hưởng tới",
+      "đi qua, chuyển động; dần dần tự chuyển (lên, xuống); tự làm cho (lỏng, chặt...)",
+      "chạy",
+      "tiến hành, tiến triển; có kết quả, có hiệu lực",
+      "(hàng hải) lách (tàu)",
+      "nhăn nhó, cau lại (mặt); day dứt (ý nghĩ, lương tâm)",
+      "bắt làm việc",
+      "làm lên men (bia...)",
+      "thêu",
+      "làm cho (máy) chạy, chuyển vận",
+      "làm, gây ra, thi hành, thực hiện",
+      "khai thác (mỏ); trổng trọt (đất đai)",
+      "giải (một bài toán); chữa (bệnh)",
+      "nhào, nặn (bột, đất sét); rèn (sắt...); tạc (tượng); vẽ (một bức tranh); chạm (gỗ); trau (vàng, bạc)",
+      "đưa dần vào, chuyển; đưa, dẫn ( (nghĩa đen) & (nghĩa bóng))",
+      "(thông tục) sắp đặt, bày ra, bày mưu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/world_lv_1000_it.json",
     "id_item": "world_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "world",
+    "list_vietnam": [
+      "trái đất với tất cả các nước và các dân tộc; thế giới; hoàn cầu",
+      "( the world ) vạn vật; vũ trụ",
+      "thế gian, trần tục, cõi trần gian, thế giới",
+      "thiên hạ, nhân loại, mọi người",
+      "cuộc đời, việc đời; xã hội, cuộc sống xã hội",
+      "những người hoặc vật thuộc một tầng lớp hoặc lĩnh vực hoạt động nào đó; giới",
+      "nhiều, một số lớn ( (thường) a world of )"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/worried_lv_1000_it.json",
     "id_item": "worried_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "worried",
+    "list_vietnam": [
+      "( + about somebody/something ; that.. ) bồn chồn, lo nghĩ, cảm thấy lo lắng, tỏ ra lo lắng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/worry_lv_1000_it.json",
     "id_item": "worry_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "worry",
+    "list_vietnam": [
+      "tình trạng bị quấy rầy; sự lo lắng, sự lo nghĩ",
+      "điều gây ra lo lắng, nguyên nhân gây ra lo nghĩ",
+      "cái mà ai phải chịu trách nhiệm",
+      "sự nhạy (của chó săn)",
+      "làm cho lo lắng, làm cho bối rối",
+      "quấy rầy, làm phiền; làm khó chịu",
+      "ngoạm (cái gì) bằng răng rồi nhai hoặc quăng đi quăng lại (nhất là về chó)",
+      "lo lắng, lo nghĩ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wring_lv_1000_it.json",
     "id_item": "wring_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wring",
+    "list_vietnam": [
+      "sự vặn, sự vắt, sự bóp (quần áo..)",
+      "sự siết chặt (tay...)",
+      "vặn, vắt, bóp (quần áo..)",
+      "moi, nặn ra (với sự cố gắng hoặc một cách khó khăn)",
+      "siết chặt (tay ai khi chào nhau)",
+      "vặn (cổ một con chim) để giết đi",
+      "(nghĩa bóng) vò xé, làm đau buồn",
+      "(nghĩa bóng) moi ra, bòn rút, nặn (tiền.. bằng áp lực...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/write_lv_1000_it.json",
     "id_item": "write_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "write",
+    "list_vietnam": [
+      "viết",
+      "viết thư, giao dịch thư từ",
+      "viết văn, viết sách",
+      "(từ Mỹ,nghĩa Mỹ) làm thư ký",
+      "viết",
+      "viết, thảo ra, soạn",
+      "điền vào; viết vào",
+      "(nghĩa bóng) lộ ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/written_lv_1000_it.json",
     "id_item": "written_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "written",
+    "list_vietnam": [
+      "viết ra, được thảo ra; trên giấy tờ, thành văn bản"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/wrong_lv_1000_it.json",
     "id_item": "wrong_lv_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "wrong",
+    "list_vietnam": [
+      "( wrong to do something ) không đúng đắn về đạo lý; sai; bậy bạ",
+      "sai, không đúng, không xác thực",
+      "sai; nhầm",
+      "( wrong with somebody / something ) không chạy, hỏng, không hoạt động tốt; không ổn, không được như phải có",
+      "một cách sai trái, chệch hướng, lầm lẫn, với kết quả không đúng",
+      "lạc",
+      "cái xấu, điều xấu, điều không tốt, mặt xấu",
+      "điều sai, điều quấy (về mặt đạo đức); hành động sai, hành động quấy",
+      "hành động bất công, sự bất công; điều bất công",
+      "(pháp lý) điều thiệt hại, điều tổn hại",
+      "làm điều gì xấu đối với ai; cư xử xấu, đối xử bất công với ai",
+      "chụp mũ, đổ tiếng xấu (cho ai)"
+    ]
   }
 ]

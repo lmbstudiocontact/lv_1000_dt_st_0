@@ -2,171 +2,570 @@
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/level_lv_1000_it.json",
     "id_item": "level_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "level",
+    "list_vietnam": [
+      "đường hoặc mặt phẳng song song với đường chân trời khi muốn nói đến độ cao của nó mức, mực; mặt",
+      "mức độ; (nghĩa bóng) trình độ, vị trí, cấp",
+      "như spirit-level",
+      "có bề mặt nằm ngang; phẳng; không dốc",
+      "cân bằng đều, ngang bằng; ngang tài ngang sức",
+      "(về giọng nói, cái nhìn..) đều đều, không thay đổi",
+      "làm cho cái gì ngang nhau, bằng nhau hoặc đồng nhất; san bằng",
+      "phá sập, phá đổ, san bằng",
+      "chĩa, nhắm (súng, lời buộc tội, lời đả kích...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lie_lv_1000_it.json",
     "id_item": "lie_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lie",
+    "list_vietnam": [
+      "sự nói dối, sự nói láo, sự nói điêu, sự dối trá; sự lừa dối, sự lừa gạt",
+      "điều tin tưởng sai lầm; ước lệ sai lầm",
+      "nói dối, nói láo",
+      "tư thế nằm",
+      "(thể dục thể thao) nơi quả bóng dừng hẳn sau cú đánh",
+      "nằm, nằm nghỉ",
+      "(pháp lý) được coi là hợp lệ, được coi là hợp pháp, được pháp luật chấp nhận"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/life_lv_1000_it.json",
     "id_item": "life_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "life",
+    "list_vietnam": [
+      "sự sống",
+      "đời sống, sinh mệnh, tính mệnh",
+      "đời, người đời",
+      "cuộc sống, sự sinh sống, sự sinh tồn",
+      "cách sống, đời sống, cách sinh hoạt",
+      "sinh khí, sinh lực, sự hoạt động",
+      "tiểu sử, thân thế",
+      "tuổi thọ, thời gian tồn tại",
+      "nhân sinh",
+      "vật sống; biểu hiện của sự sống"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lift_lv_1000_it.json",
     "id_item": "lift_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lift",
+    "list_vietnam": [
+      "sự nâng lên; sự nhấc lên",
+      "thang máy (cũng) elevator",
+      "áp lực đẩy lên do không khí tác động vào máy bay đang bay; sức nâng",
+      "sự đi nhờ xe",
+      "chỗ gồ lên, chỗ nhô lên (ở sàn nhà)",
+      "cảm giác hân hoan, phấn chấn",
+      "giơ lên, nhấc lên, nâng lên; giương cao",
+      "đỡ lên, dựng lên, kéo dậy",
+      "đào, bới",
+      "(thông tục) ăn trộm (súc vật), ăn cắp (văn)",
+      "nhổ (trại)",
+      "chấm dứt (sự phong toả...); bãi bỏ (sự cấm đoán...)",
+      "nhấc lên được, nâng lên được",
+      "tan đi, cuốn đi (mây, sương mù, bóng đêm...)",
+      "cưỡi sóng (tàu)",
+      "gồ lên (sàn nhà)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lightning_lv_1000_it.json",
     "id_item": "lightning_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lightning",
+    "list_vietnam": [
+      "chớp; sét",
+      "đột ngột, nhanh như cắt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/light_lv_1000_it.json",
     "id_item": "light_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "light",
+    "list_vietnam": [
+      "ánh sáng, ánh sáng mặt trời, ánh sáng ban ngày",
+      "nguồn ánh sáng, đèn đuốc",
+      "lửa, tia lửa; diêm, đóm",
+      "( số nhiều) sự hiểu biết, trí thức, trí tuệ, chân lý",
+      "trạng thái, phương diện, quan niệm",
+      "sự soi sáng, sự làm sáng tỏ; ( số nhiều) những sự kiện làm sáng tỏ, những phát minh làm sáng tỏ",
+      "(tôn giáo) ánh sáng của thượng đế",
+      "sinh khí, sự tinh anh; ánh mắt; (thơ ca) sự nhìn",
+      "( số nhiều) (từ lóng) đôi mắt",
+      "( số nhiều) phổi súc vật (cừu, lợn...) (dùng làm thức ăn cho chó, mèo...)",
+      "cửa, lỗ sáng",
+      "( số nhiều) khả năng",
+      "(nghệ thuật) chỗ sáng trong bức tranh",
+      "đốt, thắp, châm, nhóm",
+      "soi sáng, chiếu sáng",
+      "( (thường) + up ) làm cho rạng lên, làm cho sáng ngời lên (nét mặt, khoé mắt)",
+      "( (thường) + up ) lên đèn, thắp đèn",
+      "thắp, đốt, bắt lửa, bén lửa",
+      "( (thường) + up ) sáng ngời, tươi lên",
+      "nhẹ, nhẹ nhàng",
+      "(nói về màu sắc) nhạt",
+      "nhanh nhẹn",
+      "nhẹ nhàng, thanh thoát, dịu dàng, thư thái",
+      "khinh suất, nông nổi, nhẹ dạ, bộp chộp; lăng nhăng; lẳng lơ, đĩ thoã",
+      "tầm thường, không quan trọng",
+      "nhẹ, nhẹ nhàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/like_lv_1000_it.json",
     "id_item": "like_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "like",
+    "list_vietnam": [
+      "giống nhau, như nhau",
+      "như, giống như",
+      "thực đúng là đặc tính của...",
+      "gần, khoảng độ",
+      "chẳng hạn như...",
+      "( as ) like as not ; most / very like , like enough rất có thể",
+      "theo cung cách như",
+      "(từ Mỹ, nghĩa Mỹ) như thể",
+      "người thuộc loại như; vật thuộc loại như",
+      "cái thích",
+      "thích ưa, chuộng, yêu",
+      "( would like , should like ) muốn, ước mong",
+      "thích hợp, hợp với (thể trạng, sức khoẻ...)",
+      "thích, muốn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/limit_lv_1000_it.json",
     "id_item": "limit_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "limit",
+    "list_vietnam": [
+      "giới hạn, ranh giới, hạn định",
+      "(thông tục) ( the limit ) người quá quắc; điều quá quắc",
+      "giới hạn, hạn chế"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/line_lv_1000_it.json",
     "id_item": "line_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "line",
+    "list_vietnam": [
+      "dây, dây thép",
+      "vạch đường, đường kẻ",
+      "đường, tuyến",
+      "hàng, dòng (chữ); câu (thơ)",
+      "hàng, bậc, lối, dãy",
+      "( số nhiều) đường, nét, khuôn; vết nhăn",
+      "(quân sự) tuyến, phòng tuyến",
+      "ranh giới, giới hạn",
+      "dòng, dòng dõi, dòng giống",
+      "phương châm, phương pháp, quy tắc, cách, thói, lối...",
+      "ngành, phạm vi; chuyên môn, sở trường",
+      "(thương nghiệp) mặt hàng, vật phẩm",
+      "( số nhiều) hoàn cảnh, tình thế; đường lối, cách tiến hành",
+      "( the line ) đường xích đạo",
+      "lai (đơn vị dài bằng một phần mười hai của insơ)",
+      "(quân sự) ( the line ) quân đội chính quy",
+      "( số nhiều) giấy giá thú ( (cũng) marriage lines )",
+      "( số nhiều) (sân khấu) lời của một vai",
+      "vạch, kẻ thành dòng",
+      "làm nhăn, làm cho có ngấn, làm cho có vạch",
+      "sắp thành hàng dàn hàng",
+      "sắp hàng, đứng thành hàng ngũ",
+      "lót",
+      "(nghĩa bóng) làm đầy, nhồi, nhét"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lip_lv_1000_it.json",
     "id_item": "lip_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lip",
+    "list_vietnam": [
+      "môi",
+      "miệng vết thương, miệng vết lở",
+      "miệng, mép (cốc, giếng, núi lửa...)",
+      "cánh môi hình môi",
+      "(âm nhạc) cách đặt môi",
+      "(từ lóng) sự hỗn xược, sự láo xược",
+      "vỗ bờ (nước, sóng)",
+      "vỗ bập bềnh (nước, sóng)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/liquid_lv_1000_it.json",
     "id_item": "liquid_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "liquid",
+    "list_vietnam": [
+      "lỏng",
+      "trong trẻo, trong sáng",
+      "dịu dàng, êm dịu, du dương",
+      "không vững, hay thay đổi",
+      "(ngôn ngữ học) (thuộc) âm nước",
+      "chất lỏng, chất nước",
+      "(ngôn ngữ học) âm nước"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/listen_lv_1000_it.json",
     "id_item": "listen_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "listen",
+    "list_vietnam": [
+      "nghe, lắng nghe",
+      "nghe theo, tuân theo, vâng lời"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/list_lv_1000_it.json",
     "id_item": "list_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "list",
+    "list_vietnam": [
+      "trạng thái nghiêng; mặt nghiêng",
+      "mép vải; dải",
+      "mép vải nhét khe cửa",
+      "( số nhiều) hàng rào bao quanh trường đấu; trường đấu, vũ đài",
+      "danh sách, sổ, bản kê khai",
+      "viền, diềm bằng vải",
+      "nhét mép vải (vào khe cửa)",
+      "ghi vào danh sách",
+      "(từ cổ,nghĩa cổ) thích, muốn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/litter_lv_1000_it.json",
     "id_item": "litter_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "litter",
+    "list_vietnam": [
+      "rác rưởi bừa bãi",
+      "ổ rơm (cho súc vật)",
+      "lượt rơm phủ lên cây non",
+      "rơm trộn phân; phân chuồng",
+      "lứa đẻ (chó, mèo, lợn)",
+      "kiệu, cáng (để khiêng người bệnh, người bị thương)",
+      "rải ổ (cho súc vật)",
+      "vứt rác rưởi bừa bãi lên; bày bừa lên",
+      "đẻ (chó, mèo, lợn...)",
+      "đẻ (chó, mèo, lợn...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/little_lv_1000_it.json",
     "id_item": "little_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "little",
+    "list_vietnam": [
+      "không lớn, nhỏ; con",
+      "ngắn, ngắn ngủi",
+      "(sau nice , pretty , sweet , nasty .. để biểu thị cảm xúc về sự thân ái, vui mừng, khó chịu... của người nói)",
+      "không quan trọng, không đáng kể",
+      "ít tuổi",
+      "bé khi so với cái khác",
+      "nhỏ nhen, nhỏ mọn, tầm thường, hẹp hòi, ti tiện",
+      "(dùng với danh từ không đếm được) một số ít của cái gì, không đủ, có ít",
+      "một lượng nhỏ, một chút",
+      "ít; không nhiều",
+      "( a little ) (dùng với danh từ không đếm được) một chút, một ít",
+      "( a little ) một ít, một chút",
+      "( a little ) ở chừng mực nào đó; hơi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/livable_lv_1000_it.json",
     "id_item": "livable_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "livable",
+    "list_vietnam": [
+      "sống được",
+      "có thể chung sống được"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lively_lv_1000_it.json",
     "id_item": "lively_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lively",
+    "list_vietnam": [
+      "sống, sinh động, giống như thật",
+      "vui vẻ; hoạt bát hăng hái, năng nổ, sôi nổi",
+      "khó khăn, nguy hiểm, thất điên bát đảo",
+      "sắc sảo; tươi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/liver_lv_1000_it.json",
     "id_item": "liver_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "liver",
+    "list_vietnam": [
+      "người sống",
+      "gan",
+      "bệnh đau gan"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/live_lv_1000_it.json",
     "id_item": "live_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "live",
+    "list_vietnam": [
+      "sống",
+      "ở, trú tại",
+      "sống",
+      "thực hiện được (trong cuộc sống)",
+      "sống, hoạt động",
+      "(đùa cợt) thực (không phải ở trong tranh hay là đồ chơi)",
+      "đang cháy đỏ",
+      "chưa nổ, chưa cháy",
+      "đang quay",
+      "có dòng điện chạy qua",
+      "tại chỗ, trong lúc sự việc xảy ra",
+      "mạnh mẽ, đầy khí lực",
+      "nóng hổi, có tính chất thời sự"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loan_lv_1000_it.json",
     "id_item": "loan_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "loan",
+    "list_vietnam": [
+      "tiền cho vay; vật cho mượn",
+      "cho vay; cho mượn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lobby_lv_1000_it.json",
     "id_item": "lobby_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lobby",
+    "list_vietnam": [
+      "phòng ngoài; tiền sảnh; hành lang",
+      "phòng lớn mở cho công chúng vào và dùng cho các cuộc tiếp xúc với nghị sĩ quốc hội; hành lang ở nghị viện",
+      "(từ Mỹ,nghĩa Mỹ) nhóm người cố gắng tác động đến các nhà chính trị, nhất là để ủng hộ hoặc phản đối một dự luật; nhóm người vận động",
+      "như division lobby",
+      "( to lobby somebody for something ) (từ Mỹ,nghĩa Mỹ) cố gắng thuyết phục (một chính khách...) để ủng hộ hoặc phản đối dự luật; vận động ở hành lang",
+      "( to lobby something through something ) thông qua hoặc bác bỏ (một dự luật...) bằng cách vận động ở hành lang"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/locate_lv_1000_it.json",
     "id_item": "locate_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "locate",
+    "list_vietnam": [
+      "xác định vị trí, định vị",
+      "đặt vào vị trí",
+      "có trụ sở ở, nằm ở"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lock_lv_1000_it.json",
     "id_item": "lock_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lock",
+    "list_vietnam": [
+      "món tóc, mớ tóc; mớ bông, mớ len",
+      "( số nhiều) mái tóc, tóc",
+      "khoá",
+      "chốt (để giữ bánh xe, ghi...)",
+      "khoá nòng (súng)",
+      "miếng khoá, miếng ghì chặt (thế võ)",
+      "tình trạng ứ tắc; sự nghẽn (xe cộ); tình trạng bế tắc; tình trạng khó khăn, tình trạng nan giải, tình trạng lúng túng",
+      "cửa cống",
+      "khoá (cửa tủ...)",
+      "nhốt kỹ, giam giữ",
+      "bao bọc, bao quanh",
+      "chặn lại, đóng chốt",
+      "khoá chặt, ghì chặt (thế võ)",
+      "cho (tàu...) đi qua cửa cổng",
+      "khoá được",
+      "hãm lại; không chạy, không vận động được (máy móc)",
+      "đi qua cửa cổng (tàu...)",
+      "(quân sự) bước sát gót"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/log_lv_1000_it.json",
     "id_item": "log_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "log",
+    "list_vietnam": [
+      "khúc gỗ mới đốn hạ",
+      "(hàng hải) máy đo tốc độ (tàu)",
+      "(như) log-book",
+      "người đần, người ngu, người ngớ ngẩn",
+      "(toán học) lôga",
+      "chặt (đốn) thành từng khúc",
+      "(hàng hải) ghi (số dặm đã đi) vào sổ nhật ký hàng hải; đi được (bao nhiêu dặm)",
+      "(hàng hải) ghi (tên, lỗi của thuỷ thủ) vào sổ phạt; phạt (ai)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/long_lv_1000_it.json",
     "id_item": "long_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "long",
+    "list_vietnam": [
+      "dài (không gian, thời gian); xa, lâu",
+      "kéo dài",
+      "cao; nhiều, đáng kể",
+      "dài dòng, chán",
+      "quá, hơn",
+      "chậm, chậm trễ, lâu",
+      "lâu, trong một thời gian dài",
+      "suốt trong cả một khoảng thời gian dài",
+      "nóng lòng, mong mỏi, ước mong, ao ước"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/look_lv_1000_it.json",
     "id_item": "look_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "look",
+    "list_vietnam": [
+      "cái nhìn, cái dòm",
+      "vẻ mặt, nét mặt",
+      "ngoại hình, nhan sắc",
+      "phong cách, mốt",
+      "nhìn; xem; ngó; để ý; chú ý",
+      "mở to mắt nhìn, giương mắt nhìn",
+      "ngó đến, để ý đến, đoái đến, lưu ý",
+      "mong đợi, tính đến, toan tính",
+      "hướng về, xoay về, quay về, ngoảnh về",
+      "có vẻ; tỏ ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lose_lv_1000_it.json",
     "id_item": "lose_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lose",
+    "list_vietnam": [
+      "mất, không còn nữa",
+      "không tìm thấy được; không lấy được hoặc không bắt được; mất; thất lạc",
+      "bỏ lỡ, bỏ uổng, bỏ qua",
+      "thua, bại",
+      "uổng phí, bỏ phí",
+      "làm hại, làm mất, làm hư",
+      "chậm (đồng hồ)",
+      "( dạng bị động) mê man, say sưa, chìm đắm",
+      "mất; mất ý nghĩa, mất hay",
+      "chậm (đồng hồ)",
+      "thất bại, thua, thua lỗ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lot_lv_1000_it.json",
     "id_item": "lot_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lot",
+    "list_vietnam": [
+      "thăm, việc rút thăm; sự chọn bằng cách rút thăm",
+      "phần do rút thăm định; phần tham gia",
+      "số, phận, số phận, số mệnh",
+      "mảnh, lô (đất)",
+      "mớ, lô; ( số nhiều) rất nhiều, vô số, hàng đống, hàng đàn",
+      "chia ra làm nhiều phần, chia ra làm nhiều mảnh, chia ra làm nhiều lô (đất, hàng)",
+      "(từ Mỹ,nghĩa Mỹ), (thông tục) trông mong, trông cậy (ở ai, cái gì)",
+      "a lot , lots số lượng lớn",
+      "rất nhiều"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loud_lv_1000_it.json",
     "id_item": "loud_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "loud",
+    "list_vietnam": [
+      "to, ầm ĩ, inh ỏi (tiếng)",
+      "nhiệt liệt, kịch liệt",
+      "sặc sỡ, loè loẹt (màu sắc)",
+      "thích ồn ào, thích nói to (người)",
+      "to, lớn (nói)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/love_lv_1000_it.json",
     "id_item": "love_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "love",
+    "list_vietnam": [
+      "lòng yêu, tình thương",
+      "tình yêu, mối tình, ái tình",
+      "người yêu, người tình",
+      "thần ái tình",
+      "(thông tục) người đáng yêu; vật đáng yêu",
+      "(tôn giáo) tình thương của Thiên Chúa đối với loài người",
+      "(thể dục,thể thao) điểm không, không (quần vợt)",
+      "yêu, thương, yêu mến",
+      "thích, ưa thích",
+      "cưng (tiếng xưng hô đối với người mà mình mến)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loving_lv_1000_it.json",
     "id_item": "loving_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "loving",
+    "list_vietnam": [
+      "âu yếm, đằm thắm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/low_lv_1000_it.json",
     "id_item": "low_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "low",
+    "list_vietnam": [
+      "tiếng rống (trâu bò)",
+      "rống (trâu bò)",
+      "mức thấp, con số thấp",
+      "số thấp nhất (ô tô)",
+      "con bài thấp nhất",
+      "(thể dục,thể thao) tỷ số thấp nhất",
+      "thấp, bé, lùn",
+      "thấp, cạn",
+      "thấp bé, nhỏ",
+      "thấp, hạ, kém, chậm",
+      "thấp hèn, ở bậc dưới; tầm thường, ti tiện, hèn mọn",
+      "yếu, suy nhược, kém ăn, không bổ",
+      "(địa lý,địa chất) hạ",
+      "thấp",
+      "thấp, khẽ, nhỏ (tiếng nói)",
+      "thấp hèn, suy đồi, sa đoạ",
+      "ở mức thấp, rẻ, hạ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loyal_lv_1000_it.json",
     "id_item": "loyal_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "loyal",
+    "list_vietnam": [
+      "trung thành, trung nghĩa, trung kiên",
+      "người trung nghĩa, người trung kiên"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lunch_lv_1000_it.json",
     "id_item": "lunch_lv_1000_it",
-    "id_album": "96538789"
+    "id_album": "96538789",
+    "english": "lunch",
+    "list_vietnam": [
+      "bữa ăn vào giữa ngày; bữa trưa",
+      "bữa ăn nhẹ vào bất cứ lúc nào",
+      "đãi ai ăn trưa; dọn bữa ăn trưa cho ai",
+      "dùng bữa ăn trưa"
+    ]
   }
 ]

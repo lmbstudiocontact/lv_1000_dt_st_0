@@ -2,46 +2,115 @@
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yard_lv_1000_it.json",
     "id_item": "yard_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "yard",
+    "list_vietnam": [
+      "Iat, thước Anh (bằng 0, 914 mét)",
+      "(hàng hải) trục căng buồm",
+      "sân có rào xung quanh",
+      "bãi rào (để chăn nuôi)",
+      "xưởng; kho",
+      "đưa súc vật vào bãi rào"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/year_lv_1000_it.json",
     "id_item": "year_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "year",
+    "list_vietnam": [
+      "thời gian trái đất dùng để quay một vòng quanh mặt trời, khoảng 365 ngày; năm",
+      "(cũng) calendar year khoảng thời gian từ 1 tháng giêng đến 31 tháng mười hai, tức là 365 ngày (hay 366 trong năm nhuận) chia ra 12 tháng; năm; năm lịch",
+      "một thời kỳ 365 ngày liên tục",
+      "( số nhiều) tuổi",
+      "( số nhiều) (thông tục) một thời gian dài; lâu rồi; nhiều năm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yellow_lv_1000_it.json",
     "id_item": "yellow_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "yellow",
+    "list_vietnam": [
+      "có màu vàng",
+      "có da màu nâu sáng và nước da của vài dân tộc Đông á; da vàng",
+      "ghen ghét, ghen tị, đố kỵ, ngờ vực",
+      "như yellow-bellied",
+      "(từ Mỹ,nghĩa Mỹ) có tính chất giật gân (báo chí)",
+      "màu vàng",
+      "chất, vật liệu hay lớp phủ màu vàng; quần áo màu vàng",
+      "( số nhiều) (y học) bệnh vàng da",
+      "(làm cho cái gì) có màu vàng; nhuộm vàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yesterday_lv_1000_it.json",
     "id_item": "yesterday_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "yesterday",
+    "list_vietnam": [
+      "hôm qua"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yes_lv_1000_it.json",
     "id_item": "yes_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "yes",
+    "list_vietnam": [
+      "vâng, phải, dạ, được, ừ, có, có chứ",
+      "tiếng vâng dạ, tiếng ừ phải",
+      "phiếu đồng ý; phiếu thuận"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yet_lv_1000_it.json",
     "id_item": "yet_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "yet",
+    "list_vietnam": [
+      "vào lúc này hay lúc ấy; cho đến bây giờ/lúc đó; còn; chưa",
+      "còn; hãy còn",
+      "bây giờ, lúc này",
+      "(dùng sau cấp so sánh cao nhất) cho đến nay",
+      "(đứng trước các từ ở cấp so sánh) lại còn; ngay cả",
+      "song, vậy mà, tuy nhiên"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/young_lv_1000_it.json",
     "id_item": "young_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "young",
+    "list_vietnam": [
+      "trẻ; non; trẻ tuổi; nhỏ tuổi",
+      "non",
+      "(nghĩa bóng) non trẻ, trẻ tuổi",
+      "(nghĩa bóng) non nớt, mới mẻ, chưa có kinh nghiệm",
+      "(nghĩa bóng) còn sớm, còn ở lúc ban đầu, chưa muộn, chưa quá, chưa già",
+      "của tuổi trẻ, của thời thanh niên, của thời niên thiếu, (thuộc) thế hệ trẻ",
+      "(thông tục) con, nhỏ",
+      "thú con, chim con (mới đẻ)",
+      "( the young ) những người trẻ tuổi được xem như một nhóm; thanh niên"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/your_lv_1000_it.json",
     "id_item": "your_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "your",
+    "list_vietnam": [
+      "của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/you_lv_1000_it.json",
     "id_item": "you_lv_1000_it",
-    "id_album": "113162181"
+    "id_album": "113162181",
+    "english": "you",
+    "list_vietnam": [
+      "anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày",
+      "ai, người ta"
+    ]
   }
 ]
