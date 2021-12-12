@@ -12,8 +12,8 @@
       "xưởng; kho",
       "đưa súc vật vào bãi rào"
     ],
-    "cau_en": "yard-arm",
-    "cau_vn": "đầu của trục căng đỡ buồm",
+    "cau_en": "to be yard and yard",
+    "cau_vn": "kề sát nhau (hai chiếc thuyền)",
     "hash_code_list_mean": "-340637934"
   },
   {
@@ -28,8 +28,8 @@
       "( số nhiều) tuổi",
       "( số nhiều) (thông tục) một thời gian dài; lâu rồi; nhiều năm"
     ],
-    "cau_en": "in the year 1945",
-    "cau_vn": "trong năm 1945",
+    "cau_en": "she looks young for her years /for a woman of her years",
+    "cau_vn": "bà ấy trông còn trẻ so với tuổi/so với phụ nữ cùng tuổi",
     "hash_code_list_mean": "-1762192202"
   },
   {
@@ -48,8 +48,8 @@
       "( số nhiều) (y học) bệnh vàng da",
       "(làm cho cái gì) có màu vàng; nhuộm vàng"
     ],
-    "cau_en": "to grow (turn , get , become ) yellow",
-    "cau_vn": "vàng ra, hoá vàng; úa vàng (lá)",
+    "cau_en": "the manuscript had yellowed /was yellowed with age",
+    "cau_vn": "bản thảo đã ố vàng theo năm tháng",
     "hash_code_list_mean": "1762414891"
   },
   {
@@ -60,8 +60,8 @@
     "list_mean": [
       "hôm qua"
     ],
-    "cau_en": "yesterday morning",
-    "cau_vn": "sáng hôm qua",
+    "cau_en": "the day before yesterday",
+    "cau_vn": "hôm kia",
     "hash_code_list_mean": "603377309"
   },
   {
@@ -74,8 +74,8 @@
       "tiếng vâng dạ, tiếng ừ phải",
       "phiếu đồng ý; phiếu thuận"
     ],
-    "cau_en": "to say yes or no",
-    "cau_vn": "nói có hoặc không; nói được hay không",
+    "cau_en": "You didn't see him ? - yes , I did",
+    "cau_vn": "anh không thấy nó à? - có chứ",
     "hash_code_list_mean": "-1525071589"
   },
   {
@@ -111,8 +111,8 @@
       "thú con, chim con (mới đẻ)",
       "( the young ) những người trẻ tuổi được xem như một nhóm; thanh niên"
     ],
-    "cau_en": "a young man",
-    "cau_vn": "một thanh niên",
+    "cau_en": "the young in our society need care and protection",
+    "cau_vn": "thanh niên trong xã hội ta cần được chăm sóc và bảo vệ",
     "hash_code_list_mean": "-1641863842"
   },
   {
@@ -123,8 +123,8 @@
     "list_mean": [
       "của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày"
     ],
-    "cau_en": "show me your hands",
-    "cau_vn": "đưa tay anh cho tôi xem",
+    "cau_en": "is this your own book ?",
+    "cau_vn": "đây có phải là quyển sách của anh không?",
     "hash_code_list_mean": "1137637997"
   },
   {
@@ -136,8 +136,8 @@
       "anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày",
       "ai, người ta"
     ],
-    "cau_en": "you all know that ...",
-    "cau_vn": "tất cả các anh đều biết rằng...",
+    "cau_en": "you there , what is your name ?",
+    "cau_vn": "anh kia, tên anh là gì?",
     "hash_code_list_mean": "-1576419156"
   }
 ]
