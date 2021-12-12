@@ -4,7 +4,7 @@
     "id_item": "level_lv_1000_it",
     "id_album": "96538789",
     "english": "level",
-    "list_vietnam": [
+    "list_mean": [
       "đường hoặc mặt phẳng song song với đường chân trời khi muốn nói đến độ cao của nó mức, mực; mặt",
       "mức độ; (nghĩa bóng) trình độ, vị trí, cấp",
       "như spirit-level",
@@ -14,14 +14,17 @@
       "làm cho cái gì ngang nhau, bằng nhau hoặc đồng nhất; san bằng",
       "phá sập, phá đổ, san bằng",
       "chĩa, nhắm (súng, lời buộc tội, lời đả kích...)"
-    ]
+    ],
+    "cau_en": "1000 metres above sea-level",
+    "cau_vn": "1000 m so với mặt biển",
+    "hash_code_list_mean": "-1081988696"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lie_lv_1000_it.json",
     "id_item": "lie_lv_1000_it",
     "id_album": "96538789",
     "english": "lie",
-    "list_vietnam": [
+    "list_mean": [
       "sự nói dối, sự nói láo, sự nói điêu, sự dối trá; sự lừa dối, sự lừa gạt",
       "điều tin tưởng sai lầm; ước lệ sai lầm",
       "nói dối, nói láo",
@@ -29,14 +32,17 @@
       "(thể dục thể thao) nơi quả bóng dừng hẳn sau cú đánh",
       "nằm, nằm nghỉ",
       "(pháp lý) được coi là hợp lệ, được coi là hợp pháp, được pháp luật chấp nhận"
-    ]
+    ],
+    "cau_en": "to give someone the lie",
+    "cau_vn": "buộc tội ai là dối trá",
+    "hash_code_list_mean": "2136966345"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/life_lv_1000_it.json",
     "id_item": "life_lv_1000_it",
     "id_album": "96538789",
     "english": "life",
-    "list_vietnam": [
+    "list_mean": [
       "sự sống",
       "đời sống, sinh mệnh, tính mệnh",
       "đời, người đời",
@@ -47,14 +53,17 @@
       "tuổi thọ, thời gian tồn tại",
       "nhân sinh",
       "vật sống; biểu hiện của sự sống"
-    ]
+    ],
+    "cau_en": "to lay down one's life for the country",
+    "cau_vn": "hy sinh tính mệnh cho tổ quốc",
+    "hash_code_list_mean": "-1146781885"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lift_lv_1000_it.json",
     "id_item": "lift_lv_1000_it",
     "id_album": "96538789",
     "english": "lift",
-    "list_vietnam": [
+    "list_mean": [
       "sự nâng lên; sự nhấc lên",
       "thang máy (cũng) elevator",
       "áp lực đẩy lên do không khí tác động vào máy bay đang bay; sức nâng",
@@ -71,24 +80,30 @@
       "tan đi, cuốn đi (mây, sương mù, bóng đêm...)",
       "cưỡi sóng (tàu)",
       "gồ lên (sàn nhà)"
-    ]
+    ],
+    "cau_en": "Give him a lift : He's too small to see anything",
+    "cau_vn": "Hãy nâng nó lên : Nó thấp quá nên chẳng thấy gì cả",
+    "hash_code_list_mean": "-299678389"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lightning_lv_1000_it.json",
     "id_item": "lightning_lv_1000_it",
     "id_album": "96538789",
     "english": "lightning",
-    "list_vietnam": [
+    "list_mean": [
       "chớp; sét",
       "đột ngột, nhanh như cắt"
-    ]
+    ],
+    "cau_en": "to be struck by lightning",
+    "cau_vn": "bị sét đánh",
+    "hash_code_list_mean": "1484085349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/light_lv_1000_it.json",
     "id_item": "light_lv_1000_it",
     "id_album": "96538789",
     "english": "light",
-    "list_vietnam": [
+    "list_mean": [
       "ánh sáng, ánh sáng mặt trời, ánh sáng ban ngày",
       "nguồn ánh sáng, đèn đuốc",
       "lửa, tia lửa; diêm, đóm",
@@ -115,14 +130,17 @@
       "khinh suất, nông nổi, nhẹ dạ, bộp chộp; lăng nhăng; lẳng lơ, đĩ thoã",
       "tầm thường, không quan trọng",
       "nhẹ, nhẹ nhàng"
-    ]
+    ],
+    "cau_en": "to stand in somebody's light",
+    "cau_vn": "đứng lấp bóng ai; (nghĩa bóng) làm hại ai, cản trở ai làm việc gì",
+    "hash_code_list_mean": "-544156901"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/like_lv_1000_it.json",
     "id_item": "like_lv_1000_it",
     "id_album": "96538789",
     "english": "like",
-    "list_vietnam": [
+    "list_mean": [
       "giống nhau, như nhau",
       "như, giống như",
       "thực đúng là đặc tính của...",
@@ -137,25 +155,31 @@
       "( would like , should like ) muốn, ước mong",
       "thích hợp, hợp với (thể trạng, sức khoẻ...)",
       "thích, muốn"
-    ]
+    ],
+    "cau_en": "they're not twins , but they're very like",
+    "cau_vn": "chúng không phải là anh em sinh đôi, nhưng rất giống nhau",
+    "hash_code_list_mean": "685066275"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/limit_lv_1000_it.json",
     "id_item": "limit_lv_1000_it",
     "id_album": "96538789",
     "english": "limit",
-    "list_vietnam": [
+    "list_mean": [
       "giới hạn, ranh giới, hạn định",
       "(thông tục) ( the limit ) người quá quắc; điều quá quắc",
       "giới hạn, hạn chế"
-    ]
+    ],
+    "cau_en": "there is no limit to his impudence",
+    "cau_vn": "sự hỗn xược của nó thật không còn giới hạn nào",
+    "hash_code_list_mean": "-455216831"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/line_lv_1000_it.json",
     "id_item": "line_lv_1000_it",
     "id_album": "96538789",
     "english": "line",
-    "list_vietnam": [
+    "list_mean": [
       "dây, dây thép",
       "vạch đường, đường kẻ",
       "đường, tuyến",
@@ -180,14 +204,17 @@
       "sắp hàng, đứng thành hàng ngũ",
       "lót",
       "(nghĩa bóng) làm đầy, nhồi, nhét"
-    ]
+    ],
+    "cau_en": "to hang the clothes on the line",
+    "cau_vn": "phơi quần áo ra dây thép",
+    "hash_code_list_mean": "137745295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lip_lv_1000_it.json",
     "id_item": "lip_lv_1000_it",
     "id_album": "96538789",
     "english": "lip",
-    "list_vietnam": [
+    "list_mean": [
       "môi",
       "miệng vết thương, miệng vết lở",
       "miệng, mép (cốc, giếng, núi lửa...)",
@@ -196,14 +223,17 @@
       "(từ lóng) sự hỗn xược, sự láo xược",
       "vỗ bờ (nước, sóng)",
       "vỗ bập bềnh (nước, sóng)"
-    ]
+    ],
+    "cau_en": "upper lip",
+    "cau_vn": "môi trên",
+    "hash_code_list_mean": "1568027286"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/liquid_lv_1000_it.json",
     "id_item": "liquid_lv_1000_it",
     "id_album": "96538789",
     "english": "liquid",
-    "list_vietnam": [
+    "list_mean": [
       "lỏng",
       "trong trẻo, trong sáng",
       "dịu dàng, êm dịu, du dương",
@@ -211,24 +241,30 @@
       "(ngôn ngữ học) (thuộc) âm nước",
       "chất lỏng, chất nước",
       "(ngôn ngữ học) âm nước"
-    ]
+    ],
+    "cau_en": "liquid gas",
+    "cau_vn": "khí lỏng",
+    "hash_code_list_mean": "1579503352"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/listen_lv_1000_it.json",
     "id_item": "listen_lv_1000_it",
     "id_album": "96538789",
     "english": "listen",
-    "list_vietnam": [
+    "list_mean": [
       "nghe, lắng nghe",
       "nghe theo, tuân theo, vâng lời"
-    ]
+    ],
+    "cau_en": "listen to me !",
+    "cau_vn": "hãy nghe tôi",
+    "hash_code_list_mean": "578319223"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/list_lv_1000_it.json",
     "id_item": "list_lv_1000_it",
     "id_album": "96538789",
     "english": "list",
-    "list_vietnam": [
+    "list_mean": [
       "trạng thái nghiêng; mặt nghiêng",
       "mép vải; dải",
       "mép vải nhét khe cửa",
@@ -238,14 +274,17 @@
       "nhét mép vải (vào khe cửa)",
       "ghi vào danh sách",
       "(từ cổ,nghĩa cổ) thích, muốn"
-    ]
+    ],
+    "cau_en": "to have a list",
+    "cau_vn": "(hàng hải) nghiêng về một bên",
+    "hash_code_list_mean": "-2076288705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/litter_lv_1000_it.json",
     "id_item": "litter_lv_1000_it",
     "id_album": "96538789",
     "english": "litter",
-    "list_vietnam": [
+    "list_mean": [
       "rác rưởi bừa bãi",
       "ổ rơm (cho súc vật)",
       "lượt rơm phủ lên cây non",
@@ -256,14 +295,17 @@
       "vứt rác rưởi bừa bãi lên; bày bừa lên",
       "đẻ (chó, mèo, lợn...)",
       "đẻ (chó, mèo, lợn...)"
-    ]
+    ],
+    "cau_en": "please do not leave litter",
+    "cau_vn": "xin đừng vứt rác bừa bãi",
+    "hash_code_list_mean": "1919188814"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/little_lv_1000_it.json",
     "id_item": "little_lv_1000_it",
     "id_album": "96538789",
     "english": "little",
-    "list_vietnam": [
+    "list_mean": [
       "không lớn, nhỏ; con",
       "ngắn, ngắn ngủi",
       "(sau nice , pretty , sweet , nasty .. để biểu thị cảm xúc về sự thân ái, vui mừng, khó chịu... của người nói)",
@@ -277,47 +319,59 @@
       "( a little ) (dùng với danh từ không đếm được) một chút, một ít",
       "( a little ) một ít, một chút",
       "( a little ) ở chừng mực nào đó; hơi"
-    ]
+    ],
+    "cau_en": "six little puppies",
+    "cau_vn": "sáu con chó con",
+    "hash_code_list_mean": "-2026418120"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/livable_lv_1000_it.json",
     "id_item": "livable_lv_1000_it",
     "id_album": "96538789",
     "english": "livable",
-    "list_vietnam": [
+    "list_mean": [
       "sống được",
       "có thể chung sống được"
-    ]
+    ],
+    "cau_en": "a livable baby",
+    "cau_vn": "đứa bé sống được",
+    "hash_code_list_mean": "76006729"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lively_lv_1000_it.json",
     "id_item": "lively_lv_1000_it",
     "id_album": "96538789",
     "english": "lively",
-    "list_vietnam": [
+    "list_mean": [
       "sống, sinh động, giống như thật",
       "vui vẻ; hoạt bát hăng hái, năng nổ, sôi nổi",
       "khó khăn, nguy hiểm, thất điên bát đảo",
       "sắc sảo; tươi"
-    ]
+    ],
+    "cau_en": "a lively portrait",
+    "cau_vn": "một bức chân dung giống như thật",
+    "hash_code_list_mean": "-1283935920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/liver_lv_1000_it.json",
     "id_item": "liver_lv_1000_it",
     "id_album": "96538789",
     "english": "liver",
-    "list_vietnam": [
+    "list_mean": [
       "người sống",
       "gan",
       "bệnh đau gan"
-    ]
+    ],
+    "cau_en": "a loose liver",
+    "cau_vn": "người sống truỵ lạc, người sống phóng túng bừa bãi",
+    "hash_code_list_mean": "-416493897"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/live_lv_1000_it.json",
     "id_item": "live_lv_1000_it",
     "id_album": "96538789",
     "english": "live",
-    "list_vietnam": [
+    "list_mean": [
       "sống",
       "ở, trú tại",
       "sống",
@@ -331,49 +385,61 @@
       "tại chỗ, trong lúc sự việc xảy ra",
       "mạnh mẽ, đầy khí lực",
       "nóng hổi, có tính chất thời sự"
-    ]
+    ],
+    "cau_en": "as long as we live , we will fight oppression and exploitation",
+    "cau_vn": "chừng nào còn sống, chúng ta còn đấu tranh chống áp bức và bóc lột",
+    "hash_code_list_mean": "102312849"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loan_lv_1000_it.json",
     "id_item": "loan_lv_1000_it",
     "id_album": "96538789",
     "english": "loan",
-    "list_vietnam": [
+    "list_mean": [
       "tiền cho vay; vật cho mượn",
       "cho vay; cho mượn"
-    ]
+    ],
+    "cau_en": "I'm asking for a loan - I'll pay you back",
+    "cau_vn": "Tôi chỉ hỏi vay thôi, rồi tôi sẽ hoàn lại cho anh",
+    "hash_code_list_mean": "-877723844"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lobby_lv_1000_it.json",
     "id_item": "lobby_lv_1000_it",
     "id_album": "96538789",
     "english": "lobby",
-    "list_vietnam": [
+    "list_mean": [
       "phòng ngoài; tiền sảnh; hành lang",
       "phòng lớn mở cho công chúng vào và dùng cho các cuộc tiếp xúc với nghị sĩ quốc hội; hành lang ở nghị viện",
       "(từ Mỹ,nghĩa Mỹ) nhóm người cố gắng tác động đến các nhà chính trị, nhất là để ủng hộ hoặc phản đối một dự luật; nhóm người vận động",
       "như division lobby",
       "( to lobby somebody for something ) (từ Mỹ,nghĩa Mỹ) cố gắng thuyết phục (một chính khách...) để ủng hộ hoặc phản đối dự luật; vận động ở hành lang",
       "( to lobby something through something ) thông qua hoặc bác bỏ (một dự luật...) bằng cách vận động ở hành lang"
-    ]
+    ],
+    "cau_en": "the lobby of a hotel /theatre",
+    "cau_vn": "tiền sảnh của khách sạn/rạp hát",
+    "hash_code_list_mean": "677238601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/locate_lv_1000_it.json",
     "id_item": "locate_lv_1000_it",
     "id_album": "96538789",
     "english": "locate",
-    "list_vietnam": [
+    "list_mean": [
       "xác định vị trí, định vị",
       "đặt vào vị trí",
       "có trụ sở ở, nằm ở"
-    ]
+    ],
+    "cau_en": "to locate a fire",
+    "cau_vn": "xác định nơi xảy ra đám cháy",
+    "hash_code_list_mean": "118731634"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lock_lv_1000_it.json",
     "id_item": "lock_lv_1000_it",
     "id_album": "96538789",
     "english": "lock",
-    "list_vietnam": [
+    "list_mean": [
       "món tóc, mớ tóc; mớ bông, mớ len",
       "( số nhiều) mái tóc, tóc",
       "khoá",
@@ -392,14 +458,17 @@
       "hãm lại; không chạy, không vận động được (máy móc)",
       "đi qua cửa cổng (tàu...)",
       "(quân sự) bước sát gót"
-    ]
+    ],
+    "cau_en": "hoary locks",
+    "cau_vn": "mái tóc bạc",
+    "hash_code_list_mean": "-1773552432"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/log_lv_1000_it.json",
     "id_item": "log_lv_1000_it",
     "id_album": "96538789",
     "english": "log",
-    "list_vietnam": [
+    "list_mean": [
       "khúc gỗ mới đốn hạ",
       "(hàng hải) máy đo tốc độ (tàu)",
       "(như) log-book",
@@ -408,14 +477,17 @@
       "chặt (đốn) thành từng khúc",
       "(hàng hải) ghi (số dặm đã đi) vào sổ nhật ký hàng hải; đi được (bao nhiêu dặm)",
       "(hàng hải) ghi (tên, lỗi của thuỷ thủ) vào sổ phạt; phạt (ai)"
-    ]
+    ],
+    "cau_en": "in the log",
+    "cau_vn": "còn chưa xẻ",
+    "hash_code_list_mean": "-2110151485"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/long_lv_1000_it.json",
     "id_item": "long_lv_1000_it",
     "id_album": "96538789",
     "english": "long",
-    "list_vietnam": [
+    "list_mean": [
       "dài (không gian, thời gian); xa, lâu",
       "kéo dài",
       "cao; nhiều, đáng kể",
@@ -425,14 +497,17 @@
       "lâu, trong một thời gian dài",
       "suốt trong cả một khoảng thời gian dài",
       "nóng lòng, mong mỏi, ước mong, ao ước"
-    ]
+    ],
+    "cau_en": "a long journey",
+    "cau_vn": "một cuộc hành trình dài",
+    "hash_code_list_mean": "363322718"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/look_lv_1000_it.json",
     "id_item": "look_lv_1000_it",
     "id_album": "96538789",
     "english": "look",
-    "list_vietnam": [
+    "list_mean": [
       "cái nhìn, cái dòm",
       "vẻ mặt, nét mặt",
       "ngoại hình, nhan sắc",
@@ -443,14 +518,17 @@
       "mong đợi, tính đến, toan tính",
       "hướng về, xoay về, quay về, ngoảnh về",
       "có vẻ; tỏ ra"
-    ]
+    ],
+    "cau_en": "to have a look at",
+    "cau_vn": "nhìn đến, ngó đến",
+    "hash_code_list_mean": "1158746240"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lose_lv_1000_it.json",
     "id_item": "lose_lv_1000_it",
     "id_album": "96538789",
     "english": "lose",
-    "list_vietnam": [
+    "list_mean": [
       "mất, không còn nữa",
       "không tìm thấy được; không lấy được hoặc không bắt được; mất; thất lạc",
       "bỏ lỡ, bỏ uổng, bỏ qua",
@@ -462,14 +540,17 @@
       "mất; mất ý nghĩa, mất hay",
       "chậm (đồng hồ)",
       "thất bại, thua, thua lỗ"
-    ]
+    ],
+    "cau_en": "to lose one's head",
+    "cau_vn": "mất đầu; mất bình tĩnh, bối rối",
+    "hash_code_list_mean": "1655696198"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lot_lv_1000_it.json",
     "id_item": "lot_lv_1000_it",
     "id_album": "96538789",
     "english": "lot",
-    "list_vietnam": [
+    "list_mean": [
       "thăm, việc rút thăm; sự chọn bằng cách rút thăm",
       "phần do rút thăm định; phần tham gia",
       "số, phận, số phận, số mệnh",
@@ -479,27 +560,33 @@
       "(từ Mỹ,nghĩa Mỹ), (thông tục) trông mong, trông cậy (ở ai, cái gì)",
       "a lot , lots số lượng lớn",
       "rất nhiều"
-    ]
+    ],
+    "cau_en": "to cast lots",
+    "cau_vn": "rút thăm, bóc thăm",
+    "hash_code_list_mean": "-126867038"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loud_lv_1000_it.json",
     "id_item": "loud_lv_1000_it",
     "id_album": "96538789",
     "english": "loud",
-    "list_vietnam": [
+    "list_mean": [
       "to, ầm ĩ, inh ỏi (tiếng)",
       "nhiệt liệt, kịch liệt",
       "sặc sỡ, loè loẹt (màu sắc)",
       "thích ồn ào, thích nói to (người)",
       "to, lớn (nói)"
-    ]
+    ],
+    "cau_en": "a loud cry",
+    "cau_vn": "một tiếng kêu to",
+    "hash_code_list_mean": "2139377991"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/love_lv_1000_it.json",
     "id_item": "love_lv_1000_it",
     "id_album": "96538789",
     "english": "love",
-    "list_vietnam": [
+    "list_mean": [
       "lòng yêu, tình thương",
       "tình yêu, mối tình, ái tình",
       "người yêu, người tình",
@@ -510,23 +597,29 @@
       "yêu, thương, yêu mến",
       "thích, ưa thích",
       "cưng (tiếng xưng hô đối với người mà mình mến)"
-    ]
+    ],
+    "cau_en": "love of one's country",
+    "cau_vn": "lòng yêu nước",
+    "hash_code_list_mean": "1004101998"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loving_lv_1000_it.json",
     "id_item": "loving_lv_1000_it",
     "id_album": "96538789",
     "english": "loving",
-    "list_vietnam": [
+    "list_mean": [
       "âu yếm, đằm thắm"
-    ]
+    ],
+    "cau_en": "a loving kiss",
+    "cau_vn": "nụ hôn đằm thắm",
+    "hash_code_list_mean": "-1234420814"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/low_lv_1000_it.json",
     "id_item": "low_lv_1000_it",
     "id_album": "96538789",
     "english": "low",
-    "list_vietnam": [
+    "list_mean": [
       "tiếng rống (trâu bò)",
       "rống (trâu bò)",
       "mức thấp, con số thấp",
@@ -544,28 +637,37 @@
       "thấp, khẽ, nhỏ (tiếng nói)",
       "thấp hèn, suy đồi, sa đoạ",
       "ở mức thấp, rẻ, hạ"
-    ]
+    ],
+    "cau_en": "to put a car in low",
+    "cau_vn": "gài số một",
+    "hash_code_list_mean": "80270896"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/loyal_lv_1000_it.json",
     "id_item": "loyal_lv_1000_it",
     "id_album": "96538789",
     "english": "loyal",
-    "list_vietnam": [
+    "list_mean": [
       "trung thành, trung nghĩa, trung kiên",
       "người trung nghĩa, người trung kiên"
-    ]
+    ],
+    "cau_en": "these brave soldiers are always loyal to their ideal",
+    "cau_vn": "những người lính dũng cảm này luôn trung thành với lý tưởng của họ",
+    "hash_code_list_mean": "-788386005"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/lunch_lv_1000_it.json",
     "id_item": "lunch_lv_1000_it",
     "id_album": "96538789",
     "english": "lunch",
-    "list_vietnam": [
+    "list_mean": [
       "bữa ăn vào giữa ngày; bữa trưa",
       "bữa ăn nhẹ vào bất cứ lúc nào",
       "đãi ai ăn trưa; dọn bữa ăn trưa cho ai",
       "dùng bữa ăn trưa"
-    ]
+    ],
+    "cau_en": "he's gone to /for lunch",
+    "cau_vn": "anh ấy đã đi ăn trưa",
+    "hash_code_list_mean": "713875262"
   }
 ]

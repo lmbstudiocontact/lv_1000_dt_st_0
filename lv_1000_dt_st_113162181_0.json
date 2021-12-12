@@ -4,34 +4,40 @@
     "id_item": "yard_lv_1000_it",
     "id_album": "113162181",
     "english": "yard",
-    "list_vietnam": [
+    "list_mean": [
       "Iat, thước Anh (bằng 0, 914 mét)",
       "(hàng hải) trục căng buồm",
       "sân có rào xung quanh",
       "bãi rào (để chăn nuôi)",
       "xưởng; kho",
       "đưa súc vật vào bãi rào"
-    ]
+    ],
+    "cau_en": "yard-arm",
+    "cau_vn": "đầu của trục căng đỡ buồm",
+    "hash_code_list_mean": "-340637934"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/year_lv_1000_it.json",
     "id_item": "year_lv_1000_it",
     "id_album": "113162181",
     "english": "year",
-    "list_vietnam": [
+    "list_mean": [
       "thời gian trái đất dùng để quay một vòng quanh mặt trời, khoảng 365 ngày; năm",
       "(cũng) calendar year khoảng thời gian từ 1 tháng giêng đến 31 tháng mười hai, tức là 365 ngày (hay 366 trong năm nhuận) chia ra 12 tháng; năm; năm lịch",
       "một thời kỳ 365 ngày liên tục",
       "( số nhiều) tuổi",
       "( số nhiều) (thông tục) một thời gian dài; lâu rồi; nhiều năm"
-    ]
+    ],
+    "cau_en": "in the year 1945",
+    "cau_vn": "trong năm 1945",
+    "hash_code_list_mean": "-1762192202"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yellow_lv_1000_it.json",
     "id_item": "yellow_lv_1000_it",
     "id_album": "113162181",
     "english": "yellow",
-    "list_vietnam": [
+    "list_mean": [
       "có màu vàng",
       "có da màu nâu sáng và nước da của vài dân tộc Đông á; da vàng",
       "ghen ghét, ghen tị, đố kỵ, ngờ vực",
@@ -41,48 +47,60 @@
       "chất, vật liệu hay lớp phủ màu vàng; quần áo màu vàng",
       "( số nhiều) (y học) bệnh vàng da",
       "(làm cho cái gì) có màu vàng; nhuộm vàng"
-    ]
+    ],
+    "cau_en": "to grow (turn , get , become ) yellow",
+    "cau_vn": "vàng ra, hoá vàng; úa vàng (lá)",
+    "hash_code_list_mean": "1762414891"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yesterday_lv_1000_it.json",
     "id_item": "yesterday_lv_1000_it",
     "id_album": "113162181",
     "english": "yesterday",
-    "list_vietnam": [
+    "list_mean": [
       "hôm qua"
-    ]
+    ],
+    "cau_en": "yesterday morning",
+    "cau_vn": "sáng hôm qua",
+    "hash_code_list_mean": "603377309"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yes_lv_1000_it.json",
     "id_item": "yes_lv_1000_it",
     "id_album": "113162181",
     "english": "yes",
-    "list_vietnam": [
+    "list_mean": [
       "vâng, phải, dạ, được, ừ, có, có chứ",
       "tiếng vâng dạ, tiếng ừ phải",
       "phiếu đồng ý; phiếu thuận"
-    ]
+    ],
+    "cau_en": "to say yes or no",
+    "cau_vn": "nói có hoặc không; nói được hay không",
+    "hash_code_list_mean": "-1525071589"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/yet_lv_1000_it.json",
     "id_item": "yet_lv_1000_it",
     "id_album": "113162181",
     "english": "yet",
-    "list_vietnam": [
+    "list_mean": [
       "vào lúc này hay lúc ấy; cho đến bây giờ/lúc đó; còn; chưa",
       "còn; hãy còn",
       "bây giờ, lúc này",
       "(dùng sau cấp so sánh cao nhất) cho đến nay",
       "(đứng trước các từ ở cấp so sánh) lại còn; ngay cả",
       "song, vậy mà, tuy nhiên"
-    ]
+    ],
+    "cau_en": "I haven't received a letter from him yet ; I didn't receive a letter from him yet",
+    "cau_vn": "tôi chưa nhận được lá thư nào của anh ta",
+    "hash_code_list_mean": "-278891743"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/young_lv_1000_it.json",
     "id_item": "young_lv_1000_it",
     "id_album": "113162181",
     "english": "young",
-    "list_vietnam": [
+    "list_mean": [
       "trẻ; non; trẻ tuổi; nhỏ tuổi",
       "non",
       "(nghĩa bóng) non trẻ, trẻ tuổi",
@@ -92,25 +110,34 @@
       "(thông tục) con, nhỏ",
       "thú con, chim con (mới đẻ)",
       "( the young ) những người trẻ tuổi được xem như một nhóm; thanh niên"
-    ]
+    ],
+    "cau_en": "a young man",
+    "cau_vn": "một thanh niên",
+    "hash_code_list_mean": "-1641863842"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/your_lv_1000_it.json",
     "id_item": "your_lv_1000_it",
     "id_album": "113162181",
     "english": "your",
-    "list_vietnam": [
+    "list_mean": [
       "của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày"
-    ]
+    ],
+    "cau_en": "show me your hands",
+    "cau_vn": "đưa tay anh cho tôi xem",
+    "hash_code_list_mean": "1137637997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/you_lv_1000_it.json",
     "id_item": "you_lv_1000_it",
     "id_album": "113162181",
     "english": "you",
-    "list_vietnam": [
+    "list_mean": [
       "anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày",
       "ai, người ta"
-    ]
+    ],
+    "cau_en": "you all know that ...",
+    "cau_vn": "tất cả các anh đều biết rằng...",
+    "hash_code_list_mean": "-1576419156"
   }
 ]

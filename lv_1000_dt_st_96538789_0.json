@@ -4,34 +4,40 @@
     "id_item": "gain_lv_1000_it",
     "id_album": "96538789",
     "english": "gain",
-    "list_vietnam": [
+    "list_mean": [
       "lợi, lời; lợi lộc; lợi ích",
       "( số nhiều) của thu nhập, của kiếm được; tiền lãi",
       "sự tăng thêm",
       "thu được, lấy được, giành được, kiếm được",
       "đạt tới, tới",
       "tăng tốc (tốc độ...); lên (cân...); nhanh (đồng hồ...)"
-    ]
+    ],
+    "cau_en": "love of gain",
+    "cau_vn": "lòng tham lợi",
+    "hash_code_list_mean": "-1512162136"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gale_lv_1000_it.json",
     "id_item": "gale_lv_1000_it",
     "id_album": "96538789",
     "english": "gale",
-    "list_vietnam": [
+    "list_mean": [
       "cơn gió mạnh (từ cấp 7 đến cấp 10); bão",
       "(từ Mỹ,nghĩa Mỹ) sự nổ ra, sự phá lên",
       "(thơ ca) gió nhẹ, gió hiu hiu",
       "sự trả tiền thuê (nhà đất) từng kỳ",
       "(thông tục) cây dầu thơm (cùng loại với dâu rượu có lá thơm) ( (cũng) sweet gale )"
-    ]
+    ],
+    "cau_en": "gales of laughter",
+    "cau_vn": "những tiếng cười phá lên",
+    "hash_code_list_mean": "-1073616070"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/game_lv_1000_it.json",
     "id_item": "game_lv_1000_it",
     "id_album": "96538789",
     "english": "game",
-    "list_vietnam": [
+    "list_mean": [
       "trò chơi",
       "( số nhiều) cuộc thi điền kinh, cuộc thi đấu",
       "ván (bài, cờ...)",
@@ -45,27 +51,33 @@
       "như gà chọi; dũng cảm, anh dũng, gan dạ",
       "có nghị lực",
       "bị bại liệt (chân, tay); què, thọt"
-    ]
+    ],
+    "cau_en": "Olympic Games",
+    "cau_vn": "Thế vận hội, Đại hội thể thao thế giới, Đại hội thể thao Olympich",
+    "hash_code_list_mean": "1183630073"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/garden_lv_1000_it.json",
     "id_item": "garden_lv_1000_it",
     "id_album": "96538789",
     "english": "garden",
-    "list_vietnam": [
+    "list_mean": [
       "vườn",
       "( số nhiều) công viên, vườn",
       "vùng màu mỡ xanh tốt",
       "nơi phục vụ đồ giải khát ngoài trời",
       "làm vườn"
-    ]
+    ],
+    "cau_en": "a vegetable garden",
+    "cau_vn": "vườn rau",
+    "hash_code_list_mean": "-57312300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gather_lv_1000_it.json",
     "id_item": "gather_lv_1000_it",
     "id_album": "96538789",
     "english": "gather",
-    "list_vietnam": [
+    "list_mean": [
       "tập hợp, tụ họp lại",
       "hái, lượm, thu thập",
       "lấy, lấy lại",
@@ -74,37 +86,46 @@
       "tập hợp lại, tụ họp lại, kéo đến",
       "to ra, phóng đại, tăng lên",
       "(y học) mưng mủ (nhọt)"
-    ]
+    ],
+    "cau_en": "to gather a crowd round",
+    "cau_vn": "tập hợp một đám đông quanh mình",
+    "hash_code_list_mean": "-562051073"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gem_lv_1000_it.json",
     "id_item": "gem_lv_1000_it",
     "id_album": "96538789",
     "english": "gem",
-    "list_vietnam": [
+    "list_mean": [
       "đá quý hoặc ngọc (nhất là khi đã cắt ra và đánh bóng)",
       "cái được đánh giá cao về vẻ đẹp hoặc về một phẩm chất đặc biệt nào đó",
       "(từ Mỹ,nghĩa Mỹ) bánh bơ nhạt",
       "dát ngọc"
-    ]
+    ],
+    "cau_en": "a crown studded with gems",
+    "cau_vn": "vương miện nạm đá quý",
+    "hash_code_list_mean": "1369691847"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/generally_lv_1000_it.json",
     "id_item": "generally_lv_1000_it",
     "id_album": "96538789",
     "english": "generally",
-    "list_vietnam": [
+    "list_mean": [
       "bởi hầu hết mọi người; nói chung; thường thường",
       "tổng quát (không đề cập chi tiết)",
       "thông thường, theo như lệ thường"
-    ]
+    ],
+    "cau_en": "he is generally popular",
+    "cau_vn": "ông ta được lòng mọi người",
+    "hash_code_list_mean": "998825943"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/general_lv_1000_it.json",
     "id_item": "general_lv_1000_it",
     "id_album": "96538789",
     "english": "general",
-    "list_vietnam": [
+    "list_mean": [
       "tác động đến tất cả hoặc hầu hết mọi người, mọi nơi, mọi vật; chung; phổ biến",
       "không giới hạn ở một phần hoặc một khía cạnh của con người, sự vật, hoặc ở một thời điểm cụ thể nào; toàn thể, toàn bộ, chung",
       "không chuyên sâu vào chủ đề",
@@ -117,51 +138,63 @@
       "( the general ) (từ cổ,nghĩa cổ) nhân dân quần chúng",
       "(tôn giáo) trưởng tu viện",
       "người hầu đủ mọi việc ( (cũng) general servant )"
-    ]
+    ],
+    "cau_en": "a matter of general interest /concern",
+    "cau_vn": "một vấn đề có quan hệ đến lợi ích chung; một vấn đề được mọi người quan tâm",
+    "hash_code_list_mean": "-1676644287"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/generate_lv_1000_it.json",
     "id_item": "generate_lv_1000_it",
     "id_album": "96538789",
     "english": "generate",
-    "list_vietnam": [
+    "list_mean": [
       "sinh, đẻ ra",
       "phát, phát ra"
-    ]
+    ],
+    "cau_en": "to generate electricity",
+    "cau_vn": "phát điện",
+    "hash_code_list_mean": "383904421"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/generous_lv_1000_it.json",
     "id_item": "generous_lv_1000_it",
     "id_album": "96538789",
     "english": "generous",
-    "list_vietnam": [
+    "list_mean": [
       "rộng lượng, khoan hồng",
       "rộng rãi, hào phóng",
       "thịnh soạn",
       "màu mỡ, phong phú",
       "thắm tươi (màu sắc)"
-    ]
+    ],
+    "cau_en": "a generous meal",
+    "cau_vn": "bữa ăn thịnh soạn",
+    "hash_code_list_mean": "-4469449"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gentle_lv_1000_it.json",
     "id_item": "gentle_lv_1000_it",
     "id_album": "96538789",
     "english": "gentle",
-    "list_vietnam": [
+    "list_mean": [
       "hiền lành, dịu dàng, hoà nhã; nhẹ nhàng; thoai thoải",
       "(thuộc) dòng dõi trâm anh, (thuộc) gia đình quyền quý",
       "(từ cổ,nghĩa cổ) lịch thiệp, lịch sự; cao quý",
       "mồi giòi (để câu cá)",
       "( số nhiều) (thông tục) những người thuộc gia đình quyền quý",
       "luyện (ngựa) cho thuần"
-    ]
+    ],
+    "cau_en": "a gentle nature",
+    "cau_vn": "bản chất hiền lành hoà nhã",
+    "hash_code_list_mean": "1364211323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/get_lv_1000_it.json",
     "id_item": "get_lv_1000_it",
     "id_album": "96538789",
     "english": "get",
-    "list_vietnam": [
+    "list_mean": [
       "được, có được, kiếm được, lấy được",
       "nhận được, xin được, hỏi được",
       "tìm ra, tính ra",
@@ -184,39 +217,48 @@
       "bắt đầu",
       "(từ lóng) cút đi, chuồn",
       "con (của thú vật)"
-    ]
+    ],
+    "cau_en": "to get a living",
+    "cau_vn": "kiếm sống",
+    "hash_code_list_mean": "421387431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gird_lv_1000_it.json",
     "id_item": "gird_lv_1000_it",
     "id_album": "96538789",
     "english": "gird",
-    "list_vietnam": [
+    "list_mean": [
       "sự nhạo báng, sự chế nhạo, sự chế giễu, sự giễu cợt",
       "nhạo báng, chế nhạo, chế giễu, giễu cợt",
       "đeo, thắt, buộc quanh mình, quấn quanh, đóng đai quanh",
       "bao bọc, vây quanh",
       "cho (sức mạnh, quyền hành)"
-    ]
+    ],
+    "cau_en": "to gird at somebody",
+    "cau_vn": "chế giễu ai",
+    "hash_code_list_mean": "-1978342675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/girl_lv_1000_it.json",
     "id_item": "girl_lv_1000_it",
     "id_album": "96538789",
     "english": "girl",
-    "list_vietnam": [
+    "list_mean": [
       "con gái",
       "cô gái giúp việc trong gia đình",
       "(dùng trong danh từ ghép)",
       "người yêu, người tình ( (cũng) best girl ))"
-    ]
+    ],
+    "cau_en": "school-girl",
+    "cau_vn": "nữ sinh",
+    "hash_code_list_mean": "1391656988"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/give_lv_1000_it.json",
     "id_item": "give_lv_1000_it",
     "id_album": "96538789",
     "english": "give",
-    "list_vietnam": [
+    "list_mean": [
       "cho, biếu, tặng, ban",
       "cho, sinh ra, đem lại",
       "nêu cho; đưa cho, trao cho, đem cho, chuyển cho",
@@ -233,23 +275,29 @@
       "coi như, cho là, cho rằng",
       "quyết định xử",
       "tính đàn hồi, tính co giãn, tính nhún nhảy được"
-    ]
+    ],
+    "cau_en": "to give a handsome present",
+    "cau_vn": "tặng một món quà đẹp",
+    "hash_code_list_mean": "1099498630"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/glad_lv_1000_it.json",
     "id_item": "glad_lv_1000_it",
     "id_album": "96538789",
     "english": "glad",
-    "list_vietnam": [
+    "list_mean": [
       "vui lòng, sung sướng, vui mừng, vui vẻ, hân hoan"
-    ]
+    ],
+    "cau_en": "to be glad to see someone",
+    "cau_vn": "sung sướng vui mừng được gặp ai",
+    "hash_code_list_mean": "-980481346"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/glance_lv_1000_it.json",
     "id_item": "glance_lv_1000_it",
     "id_album": "96538789",
     "english": "glance",
-    "list_vietnam": [
+    "list_mean": [
       "(khoáng chất) quặng bóng",
       "cái nhìn thoáng qua, cái liếc qua",
       "tia loáng qua, tia loé lên",
@@ -260,14 +308,17 @@
       "loé lên, sáng loé",
       "( (thường) + off , aside ) đi sượt qua, đi trệch (viên đạn...)",
       "đưa (mắt) nhìn qua"
-    ]
+    ],
+    "cau_en": "copper glance",
+    "cau_vn": "quặng đồng sunfua",
+    "hash_code_list_mean": "932172857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/glass_lv_1000_it.json",
     "id_item": "glass_lv_1000_it",
     "id_album": "96538789",
     "english": "glass",
-    "list_vietnam": [
+    "list_mean": [
       "kính; thuỷ tinh",
       "cái cốc, cái ly (bằng thủy tinh)",
       "lượng chứa trong cốc",
@@ -279,83 +330,104 @@
       "( số nhiều) kính đeo mắt ( (cũng) spectacles )",
       "lắp kính, lồng kính",
       "phản chiếu; soi mình"
-    ]
+    ],
+    "cau_en": "to cut oneself on broken glass",
+    "cau_vn": "đứt tay vì kính vỡ",
+    "hash_code_list_mean": "-1774624862"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/glider_lv_1000_it.json",
     "id_item": "glider_lv_1000_it",
     "id_album": "96538789",
     "english": "glider",
-    "list_vietnam": [
+    "list_mean": [
       "lướt qua, lướt nhẹ, trượt nhẹ, đi nhẹ qua, chảy êm đềm (sông...); bay liệng (chim, tàu lượn...); trôi qua (thời gian)",
       "làm trượt đi, làm lướt đi",
       "(hàng không) tàu lượn"
-    ]
+    ],
+    "cau_en": "to glider out of the room",
+    "cau_vn": "lướt nhẹ ra khỏi phòng",
+    "hash_code_list_mean": "-584874124"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/glue_lv_1000_it.json",
     "id_item": "glue_lv_1000_it",
     "id_album": "96538789",
     "english": "glue",
-    "list_vietnam": [
+    "list_mean": [
       "keo hồ",
       "gắn lại, dán bằng keo, dán bằng hồ"
-    ]
+    ],
+    "cau_en": "to have one's eyes glued to sth",
+    "cau_vn": "mắt cứ dán vào cái gì, dõi mắt nhìn theo cái gì",
+    "hash_code_list_mean": "1966653009"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/goal_lv_1000_it.json",
     "id_item": "goal_lv_1000_it",
     "id_album": "96538789",
     "english": "goal",
-    "list_vietnam": [
+    "list_mean": [
       "(thể dục,thể thao) khung thành, cầu môn",
       "(thể dục,thể thao) bàn thắng, điểm",
       "đích; mục đích, mục tiêu"
-    ]
+    ],
+    "cau_en": "to keep goal for a football team ; to be in goal for a football team",
+    "cau_vn": "giữ gôn cho một đội bóng; là thủ môn của một đội bóng",
+    "hash_code_list_mean": "1648965169"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/godfather_lv_1000_it.json",
     "id_item": "godfather_lv_1000_it",
     "id_album": "96538789",
     "english": "godfather",
-    "list_vietnam": [
+    "list_mean": [
       "cha đỡ đầu",
       "(nghĩa bóng) người được lấy tên để đặt cho (ai, vật gì...)",
       "thủ lĩnh của một băng nhóm tội phạm; trùm tội phạm; bố già",
       "đỡ đầu (cho một đứa trẻ), đặt tên mình cho một đứa trẻ"
-    ]
+    ],
+    "cau_en": "to stand godfather to a child",
+    "cau_vn": "đỡ đầu cho một đứa trẻ",
+    "hash_code_list_mean": "2047959154"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/going_lv_1000_it.json",
     "id_item": "going_lv_1000_it",
     "id_album": "96538789",
     "english": "going",
-    "list_vietnam": [
+    "list_mean": [
       "sự ra đi",
       "trạng thái đường sá (xấu, tốt...); việc đi lại",
       "tốc độ (của xe lửa...)",
       "đang có sẵn, đang hoạt động, đang tiến hành đều"
-    ]
+    ],
+    "cau_en": "the going is hard over this rough road",
+    "cau_vn": "việc đi lại trên đường gồ ghề này vất vả",
+    "hash_code_list_mean": "-1203839025"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/golden_lv_1000_it.json",
     "id_item": "golden_lv_1000_it",
     "id_album": "96538789",
     "english": "golden",
-    "list_vietnam": [
+    "list_mean": [
       "bằng vàng",
       "có vàng, nhiều vàng",
       "có màu vàng",
       "quý giá, quý báu, quý như vàng",
       "thịnh vượng; hạnh phúc"
-    ]
+    ],
+    "cau_en": "golden hair",
+    "cau_vn": "tóc màu vàng",
+    "hash_code_list_mean": "1197675631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gold_lv_1000_it.json",
     "id_item": "gold_lv_1000_it",
     "id_album": "96538789",
     "english": "gold",
-    "list_vietnam": [
+    "list_mean": [
       "vàng",
       "tiền vàng",
       "số tiền lớn; sự giàu có",
@@ -363,25 +435,31 @@
       "(nghĩa bóng) vàng, cái quý giá",
       "bằng vàng",
       "có màu vàng"
-    ]
+    ],
+    "cau_en": "a heart of gold",
+    "cau_vn": "tấm lòng vàng",
+    "hash_code_list_mean": "2035336767"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gone_lv_1000_it.json",
     "id_item": "gone_lv_1000_it",
     "id_album": "96538789",
     "english": "gone",
-    "list_vietnam": [
+    "list_mean": [
       "đã trôi qua; không còn nữa",
       "có thai; có mang",
       "muộn hơn là, quá"
-    ]
+    ],
+    "cau_en": "gone are the days when you could bully any of your inferiors",
+    "cau_vn": "đã qua rồi cái thời mà anh muốn bắt nạt kẻ nào dưới quyền anh cũng được",
+    "hash_code_list_mean": "263667206"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/good_lv_1000_it.json",
     "id_item": "good_lv_1000_it",
     "id_album": "96538789",
     "english": "good",
-    "list_vietnam": [
+    "list_mean": [
       "tốt, hay, tuyệt",
       "tử tế, rộng lượng, thương người; có đức hạnh, ngoan",
       "tươi (cá)",
@@ -399,26 +477,32 @@
       "lợi, lợi ích",
       "điều đáng mong muốn, vật đáng mong muốn",
       "những người tốt, những người có đạo đức"
-    ]
+    ],
+    "cau_en": "very good !",
+    "cau_vn": "rất tốt!, rất hay!, tuyệt",
+    "hash_code_list_mean": "-1932309259"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/govern_lv_1000_it.json",
     "id_item": "govern_lv_1000_it",
     "id_album": "96538789",
     "english": "govern",
-    "list_vietnam": [
+    "list_mean": [
       "cai trị (một đất nước...); cầm quyền",
       "khống chế; kiềm chế, đè nén (một dục vọng...)",
       "chi phối; ảnh hưởng",
       "(ngôn ngữ học) chi phối"
-    ]
+    ],
+    "cau_en": "In Britain the Queen reigns , but elected representatives of the people govern the country",
+    "cau_vn": "ở Anh nữ hoàng trị vì, còn các đại biểu do dân bầu lên thì cai trị đất nước",
+    "hash_code_list_mean": "353706085"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/go_lv_1000_it.json",
     "id_item": "go_lv_1000_it",
     "id_album": "96538789",
     "english": "go",
-    "list_vietnam": [
+    "list_mean": [
       "sự đi",
       "sức sống; nhiệt tình, sự hăng hái",
       "sự làm thử",
@@ -447,14 +531,17 @@
       "được biết, được thừa nhận; truyền đi, nói, truyền miệng",
       "hợp nhịp điệu; phổ theo (thơ, nhạc...)",
       "(đánh bài) đi, đánh, ra (quân bài), đặt (tiền)"
-    ]
+    ],
+    "cau_en": "full of go",
+    "cau_vn": "đầy sức sống; đầy nhiệt tình",
+    "hash_code_list_mean": "1578169276"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/grand_lv_1000_it.json",
     "id_item": "grand_lv_1000_it",
     "id_album": "96538789",
     "english": "grand",
-    "list_vietnam": [
+    "list_mean": [
       "rất quan trọng, rất lớn",
       "hùng vĩ, uy nghi, trang nghiêm, huy hoàng",
       "cao quý, cao thượng; trang trọng, bệ vệ",
@@ -463,40 +550,49 @@
       "chính, lớn, tổng quát",
       "(âm nhạc) đàn pianô cánh",
       "(từ Mỹ,nghĩa Mỹ), (từ lóng) một nghìn đô la"
-    ]
+    ],
+    "cau_en": "grand question",
+    "cau_vn": "vấn đề rất quan trọng",
+    "hash_code_list_mean": "-1495063412"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/grant_lv_1000_it.json",
     "id_item": "grant_lv_1000_it",
     "id_album": "96538789",
     "english": "grant",
-    "list_vietnam": [
+    "list_mean": [
       "vật được cho vì một mục đích đặc biệt; tài trợ; trợ cấp",
       "(pháp lý) sự chuyển nhượng bằng khế ước",
       "đồng ý cho hoặc cho phép (điều yêu cầu); ban cho; chấp nhận",
       "ban cái gì cho ai một cách chính thức hoặc hợp pháp; cấp",
       "đồng ý hoặc chấp nhận (cái gì là thật); công nhận"
-    ]
+    ],
+    "cau_en": "student grants",
+    "cau_vn": "học bổng",
+    "hash_code_list_mean": "1145733540"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/grapple_lv_1000_it.json",
     "id_item": "grapple_lv_1000_it",
     "id_album": "96538789",
     "english": "grapple",
-    "list_vietnam": [
+    "list_mean": [
       "(như) grapnel",
       "sự túm lấy, sự níu lấy",
       "(hàng hải) móc bằng móc sắt",
       "túm lấy, níu lấy",
       "( + with , together ) vật, vật lộn"
-    ]
+    ],
+    "cau_en": "to grapple with somebody",
+    "cau_vn": "ôm ghì lấy (ai) để vật",
+    "hash_code_list_mean": "850001716"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/grass_lv_1000_it.json",
     "id_item": "grass_lv_1000_it",
     "id_album": "96538789",
     "english": "grass",
-    "list_vietnam": [
+    "list_mean": [
       "cỏ",
       "bãi cỏ, đồng cỏ",
       "bãi cỏ, thảm cỏ (ở công viên)",
@@ -508,14 +604,17 @@
       "đánh ngã sóng soài",
       "bắn rơi (chim); kéo (cá) về đất liền; đưa (quặng) lên mặt đất",
       "căng (vải...) trên cỏ để phơi"
-    ]
+    ],
+    "cau_en": "please , keep off the grass ; do not walk on the grass",
+    "cau_vn": "xin đừng đi lên cỏ, xin đừng giẫm lên bãi cỏ",
+    "hash_code_list_mean": "946630210"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/great_lv_1000_it.json",
     "id_item": "great_lv_1000_it",
     "id_album": "96538789",
     "english": "great",
-    "list_vietnam": [
+    "list_mean": [
       "lớn, to lớn, vĩ đại",
       "hết sức, rất",
       "cao quý, ca cả, cao thượng",
@@ -524,14 +623,17 @@
       "thân (với ai)",
       "( the great ) những người vĩ đại",
       "( số nhiều) kỳ thi tốt nghiệp tú tài văn chương tại trường đại học Ôc-phớt"
-    ]
+    ],
+    "cau_en": "a great wind",
+    "cau_vn": "cơn gió lớn",
+    "hash_code_list_mean": "-1223661928"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/green_lv_1000_it.json",
     "id_item": "green_lv_1000_it",
     "id_album": "96538789",
     "english": "green",
-    "list_vietnam": [
+    "list_mean": [
       "xanh lá cây, lục",
       "xanh; tươi",
       "đầy sức sống; thanh xuân",
@@ -550,14 +652,17 @@
       "trở nên xanh lá cây, hoá thành màu lục",
       "làm cho xanh, nhuộm lục",
       "(từ lóng) bịp, lừa bịp"
-    ]
+    ],
+    "cau_en": "green fruit",
+    "cau_vn": "quả xanh",
+    "hash_code_list_mean": "1158177889"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/grind_lv_1000_it.json",
     "id_item": "grind_lv_1000_it",
     "id_album": "96538789",
     "english": "grind",
-    "list_vietnam": [
+    "list_mean": [
       "sự xay, sự tán, sự nghiền",
       "sự mài",
       "tiếng nghiến ken két",
@@ -572,14 +677,17 @@
       "quay (cối xay cà phê)",
       "bắt (ai) làm việc cật lực",
       "nhồi nhét"
-    ]
+    ],
+    "cau_en": "the daily grind",
+    "cau_vn": "công việc hằng ngày",
+    "hash_code_list_mean": "-1061168104"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ground_lv_1000_it.json",
     "id_item": "ground_lv_1000_it",
     "id_album": "96538789",
     "english": "ground",
-    "list_vietnam": [
+    "list_mean": [
       "mặt đất, đất",
       "bãi đất, khu đất",
       "( số nhiều) đất đai vườn tược",
@@ -598,51 +706,63 @@
       "(điện học) tiếp đất",
       "(hàng hải) mắc cạn",
       "(hàng không) hạ cánh"
-    ]
+    ],
+    "cau_en": "to sit on the ground",
+    "cau_vn": "ngồi trên (mặt) đất",
+    "hash_code_list_mean": "1073684002"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/group_lv_1000_it.json",
     "id_item": "group_lv_1000_it",
     "id_album": "96538789",
     "english": "group",
-    "list_vietnam": [
+    "list_mean": [
       "nhóm",
       "(hoá học) nhóm, gốc",
       "hợp thành nhóm; tập hợp lại",
       "phân loại, phân loại, phân hạng, phân phối theo nhóm",
       "(nghệ thuật) tạo nên sự hoà hợp màu sắc"
-    ]
+    ],
+    "cau_en": "to learn in groups",
+    "cau_vn": "học nhóm",
+    "hash_code_list_mean": "-2074245045"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/grow_lv_1000_it.json",
     "id_item": "grow_lv_1000_it",
     "id_album": "96538789",
     "english": "grow",
-    "list_vietnam": [
+    "list_mean": [
       "gia tăng về cỡ hoặc lượng; trở thànhto lớn hơn",
       "( to grow from something into something ) phát triển (đặc biệt là thành một dạng trưởng thành hoặc lớn lên)",
       "(dần dần) trở thành",
       "làm hoặc cho phép cái gì phát triển",
       "đạt tới điểm hoặc giai đoạn để ta làm việc gì đó cụ thể"
-    ]
+    ],
+    "cau_en": "How tall you've grown !",
+    "cau_vn": "Em đã lớn lên nhiều quá!",
+    "hash_code_list_mean": "1206033780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/guess_lv_1000_it.json",
     "id_item": "guess_lv_1000_it",
     "id_album": "96538789",
     "english": "guess",
-    "list_vietnam": [
+    "list_mean": [
       "sự đoán, sự ước chừng",
       "đoán, phỏng đoán, ước chừng",
       "(từ Mỹ,nghĩa Mỹ), (thông tục) nghĩ, chắc rằng"
-    ]
+    ],
+    "cau_en": "to make a guess",
+    "cau_vn": "đoán",
+    "hash_code_list_mean": "1839792490"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/guide_lv_1000_it.json",
     "id_item": "guide_lv_1000_it",
     "id_album": "96538789",
     "english": "guide",
-    "list_vietnam": [
+    "list_mean": [
       "người chỉ dẫn; người chỉ đường, người hướng dẫn (cho khách du lịch)",
       "bài học, điều chỉ dẫn, điều tốt, điều hay (cần noi theo)",
       "như guide-book",
@@ -651,25 +771,31 @@
       "(quân sự) quân thám báo",
       "(hàng hải) tàu hướng dẫn (cho cả đội tàu)",
       "dẫn đường, chỉ đường, dắt, dẫn, hướng dẫn; chỉ đạo"
-    ]
+    ],
+    "cau_en": "a guide to Vietnam",
+    "cau_vn": "sách chỉ dẫn đi thăm Việt Nam",
+    "hash_code_list_mean": "375490753"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gull_lv_1000_it.json",
     "id_item": "gull_lv_1000_it",
     "id_album": "96538789",
     "english": "gull",
-    "list_vietnam": [
+    "list_mean": [
       "(động vật học) mòng biển",
       "người ngờ nghệch, người cả tin",
       "lừa, lừa bịp"
-    ]
+    ],
+    "cau_en": "to gull somebody out of his money",
+    "cau_vn": "lừa tiền của ai",
+    "hash_code_list_mean": "-1054628181"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gun_lv_1000_it.json",
     "id_item": "gun_lv_1000_it",
     "id_album": "96538789",
     "english": "gun",
-    "list_vietnam": [
+    "list_mean": [
       "súng",
       "phát đại bác",
       "(từ lóng) súng lục",
@@ -679,24 +805,30 @@
       "ống bơm thuốc trừ sâu",
       "(từ lóng) kẻ cắp, kẻ trộm",
       "( + for , after ) săn lùng, truy nã"
-    ]
+    ],
+    "cau_en": "a sporting gun",
+    "cau_vn": "súng săn",
+    "hash_code_list_mean": "1281612299"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gym_lv_1000_it.json",
     "id_item": "gym_lv_1000_it",
     "id_album": "96538789",
     "english": "gym",
-    "list_vietnam": [
+    "list_mean": [
       "phòng tập thể dục",
       "môn thể dục trong nhà trường"
-    ]
+    ],
+    "cau_en": "exercises in the gym",
+    "cau_vn": "luyện tập ở phòng tập thể dục",
+    "hash_code_list_mean": "-1737177246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hail_lv_1000_it.json",
     "id_item": "hail_lv_1000_it",
     "id_album": "96538789",
     "english": "hail",
-    "list_vietnam": [
+    "list_mean": [
       "mưa đá",
       "loạt, tràng dồn dập; trận tới tấp",
       "mưa đá",
@@ -707,24 +839,30 @@
       "( to hail somebody / something as something ) hoan hô, hoan nghênh",
       "( to hail from ...) tới (từ đâu)",
       "chào!"
-    ]
+    ],
+    "cau_en": "a hail of questions",
+    "cau_vn": "một loạt câu hỏi dồn dập",
+    "hash_code_list_mean": "-1155685862"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hair_lv_1000_it.json",
     "id_item": "hair_lv_1000_it",
     "id_album": "96538789",
     "english": "hair",
-    "list_vietnam": [
+    "list_mean": [
       "một trong những sợi giống như chỉ nhỏ mọc từ da người và động vật",
       "tóc; lông cây; lông lá"
-    ]
+    ],
+    "cau_en": "there's a hair in my soup",
+    "cau_vn": "trong bát xúp của tôi có một sợi lông",
+    "hash_code_list_mean": "-1709415940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/half_lv_1000_it.json",
     "id_item": "half_lv_1000_it",
     "id_album": "96538789",
     "english": "half",
-    "list_vietnam": [
+    "list_mean": [
       "phân nửa, một nửa",
       "một trong hai phần thời gian bằng nhau của một trận đấu thể thao, buổi hoà nhạc...",
       "vé nửa tiền (nhất là cho trẻ em) trên xe búyt hoặc xe lửa",
@@ -734,14 +872,17 @@
       "tới một nửa",
       "một phần, dở",
       "số lượng tạo thành một nửa"
-    ]
+    ],
+    "cau_en": "I broke the chocolate into halves - here's your half",
+    "cau_vn": "tôi bẻ thanh sôcôla này làm hai nửa - đây là nửa của anh",
+    "hash_code_list_mean": "-605483052"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/handle_lv_1000_it.json",
     "id_item": "handle_lv_1000_it",
     "id_album": "96538789",
     "english": "handle",
-    "list_vietnam": [
+    "list_mean": [
       "cán, tay cầm, móc quai",
       "(nghĩa bóng) điểm người ta có thể lợi dụng được",
       "chức tước, danh hiệu",
@@ -751,14 +892,17 @@
       "luận giải, nghiên cứu, bàn về (một vấn đề)",
       "quản lý, xử lý; chỉ huy, điều khiển (công việc, người...)",
       "(thương nghiệp) buôn bán (một số mặt hàng...)"
-    ]
+    ],
+    "cau_en": "to carry a bucket by the handle",
+    "cau_vn": "xách thùng ở quai",
+    "hash_code_list_mean": "-2074876251"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hand_lv_1000_it.json",
     "id_item": "hand_lv_1000_it",
     "id_album": "96538789",
     "english": "hand",
-    "list_vietnam": [
+    "list_mean": [
       "bàn tay (người); bàn chân trước (loài vật bốn chân)",
       "quyền hành; sự có sẵn (trong tay); sự nắm giữ (trong tay); sự kiểm soát",
       "sự tham gia, sự nhúng tay vào; phần tham gia",
@@ -778,14 +922,17 @@
       "đưa, trao tay, chuyển giao; truyền cho",
       "đưa tay đỡ",
       "(hàng hải) cuộn (buồm) lại"
-    ]
+    ],
+    "cau_en": "to take /lead somebody by the hand",
+    "cau_vn": "cầm tay ai/nắm tay dắt ai",
+    "hash_code_list_mean": "1793926357"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hang_lv_1000_it.json",
     "id_item": "hang_lv_1000_it",
     "id_album": "96538789",
     "english": "hang",
-    "list_vietnam": [
+    "list_mean": [
       "sự cúi xuống, sự gục xuống",
       "dốc, mặt dốc",
       "cách treo (một vật gì)",
@@ -798,70 +945,88 @@
       "( hanged ) bị treo cổ",
       "cheo leo, lơ lửng; phấp phới; rủ xuống, xoã xuống, thõng xuống, lòng thòng",
       "nghiêng"
-    ]
+    ],
+    "cau_en": "to get the hang of something",
+    "cau_vn": "hiểu rõ cái gì",
+    "hash_code_list_mean": "1760680976"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/happen_lv_1000_it.json",
     "id_item": "happen_lv_1000_it",
     "id_album": "96538789",
     "english": "happen",
-    "list_vietnam": [
+    "list_mean": [
       "xảy đến, xảy ra; ngẫu nhiên xảy ra, tình cờ xảy ra",
       "tình cờ, ngẫu nhiên",
       "( + on something ) tình cờ gặp, ngẫu nhiên gặp; ngẫu nhiên tìm thấy cái gì"
-    ]
+    ],
+    "cau_en": "it happened last night",
+    "cau_vn": "câu chuyện xảy ra đêm qua",
+    "hash_code_list_mean": "360038592"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/happily_lv_1000_it.json",
     "id_item": "happily_lv_1000_it",
     "id_album": "96538789",
     "english": "happily",
-    "list_vietnam": [
+    "list_mean": [
       "sung sướng, hạnh phúc",
       "thật là may mắn, thật là phúc",
       "khéo chọn, tài tình (lời nói, cách diễn đạt ý...); thích hợp"
-    ]
+    ],
+    "cau_en": "happily someone come and helped him",
+    "cau_vn": "thật là may mắn có người đến giúp anh ta",
+    "hash_code_list_mean": "-1026938012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/happy_lv_1000_it.json",
     "id_item": "happy_lv_1000_it",
     "id_album": "96538789",
     "english": "happy",
-    "list_vietnam": [
+    "list_mean": [
       "vui sướng, vui lòng (một công thức xã giao)",
       "may mắn, tốt phúc",
       "sung sướng, hạnh phúc",
       "khéo chọn, rất đúng, tài tình (từ, thành ngữ, câu nói...); thích hợp (cách xử sự...)",
       "(từ lóng) bị choáng váng, bị ngây ngất (vì bom...)"
-    ]
+    ],
+    "cau_en": "I shall be happy to accept your invitation",
+    "cau_vn": "tôi sung sướng nhận lời mời của ông",
+    "hash_code_list_mean": "1974275553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hard-working_lv_1000_it.json",
     "id_item": "hard-working_lv_1000_it",
     "id_album": "96538789",
     "english": "hard-working",
-    "list_vietnam": [
+    "list_mean": [
       "làm việc tích cực và chu đáo"
-    ]
+    ],
+    "cau_en": "our company only includes hard-working employees",
+    "cau_vn": "công ty chúng tôi chỉ toàn những nhân viên làm việc tích cực và chu đáo",
+    "hash_code_list_mean": "1168542555"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hardly_lv_1000_it.json",
     "id_item": "hardly_lv_1000_it",
     "id_album": "96538789",
     "english": "hardly",
-    "list_vietnam": [
+    "list_mean": [
       "khắc nghiệt, nghiêm khắc, tàn tệ, cứng rắn",
       "(dùng để gợi ý rằng cái gì là khó có thể xảy ra, không chắc có thực hoặc vô lý)",
       "vừa mới, chỉ vừa mới",
       "hầu như không"
-    ]
+    ],
+    "cau_en": "to be hardly treated",
+    "cau_vn": "bị đối xử khắc nghiệt",
+    "hash_code_list_mean": "2132081780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hard_lv_1000_it.json",
     "id_item": "hard_lv_1000_it",
     "id_album": "96538789",
     "english": "hard",
-    "list_vietnam": [
+    "list_mean": [
       "cứng, rắn",
       "rắn chắc, cứng cáp",
       "cứng (nước)",
@@ -881,66 +1046,84 @@
       "sát, gần, sát cạnh",
       "đường dốc xuống bãi, đường dốc xuống bến",
       "(từ lóng) hình phạt khổ sai"
-    ]
+    ],
+    "cau_en": "as hard as steel",
+    "cau_vn": "rắn như thép",
+    "hash_code_list_mean": "-215451082"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/harmful_lv_1000_it.json",
     "id_item": "harmful_lv_1000_it",
     "id_album": "96538789",
     "english": "harmful",
-    "list_vietnam": [
+    "list_mean": [
       "gây tai hại, có hại"
-    ]
+    ],
+    "cau_en": "smoking is harmful to health",
+    "cau_vn": "hút thuốc có hại cho sức khoẻ",
+    "hash_code_list_mean": "1771005917"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/harmony_lv_1000_it.json",
     "id_item": "harmony_lv_1000_it",
     "id_album": "96538789",
     "english": "harmony",
-    "list_vietnam": [
+    "list_mean": [
       "sự hài hoà, sự cân đối",
       "sự phù hợp về tình cảm, quyền lợi, ý kiến; sự hoà thuận, sự hoà hợp",
       "(âm nhạc) sự hoà âm"
-    ]
+    ],
+    "cau_en": "the harmony of colour in nature",
+    "cau_vn": "sự hài hoà về màu sắc trong thiên nhiên",
+    "hash_code_list_mean": "-1332298805"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/harm_lv_1000_it.json",
     "id_item": "harm_lv_1000_it",
     "id_album": "96538789",
     "english": "harm",
-    "list_vietnam": [
+    "list_mean": [
       "sự tổn hại; sự thiệt hại",
       "ý muốn hại người; điều gây tai hại",
       "làm hại, gây tai hại, làm tổn hại"
-    ]
+    ],
+    "cau_en": "to do somebody harm",
+    "cau_vn": "làm hại ai",
+    "hash_code_list_mean": "1830098702"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hate_lv_1000_it.json",
     "id_item": "hate_lv_1000_it",
     "id_album": "96538789",
     "english": "hate",
-    "list_vietnam": [
+    "list_mean": [
       "(thơ ca) lòng căm thù; sự căm hờn, sự căm ghét",
       "căm thù, căm hờn, căm ghét",
       "(thông tục) không muốn, không thích"
-    ]
+    ],
+    "cau_en": "I hate troubling you",
+    "cau_vn": "tôi không hề muốn làm phiền anh",
+    "hash_code_list_mean": "-1226208614"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hat_lv_1000_it.json",
     "id_item": "hat_lv_1000_it",
     "id_album": "96538789",
     "english": "hat",
-    "list_vietnam": [
+    "list_mean": [
       "cái mũ ( (thường) có vành)",
       "đội mũ cho (ai)"
-    ]
+    ],
+    "cau_en": "squash hat",
+    "cau_vn": "mũ phớt mềm",
+    "hash_code_list_mean": "92568878"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/have_lv_1000_it.json",
     "id_item": "have_lv_1000_it",
     "id_album": "96538789",
     "english": "have",
-    "list_vietnam": [
+    "list_mean": [
       "có",
       "( + from ) nhận được, biết được",
       "ăn; uống; hút",
@@ -954,36 +1137,45 @@
       "sai khiến, nhờ, bảo, bắt (ai làm gì...)",
       "(từ lóng) bịp, lừa bịp",
       "(từ lóng) sự lừa bịp; hành động lừa bịp"
-    ]
+    ],
+    "cau_en": "to have nothing to do",
+    "cau_vn": "không có việc gì làm",
+    "hash_code_list_mean": "869828686"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hawk_lv_1000_it.json",
     "id_item": "hawk_lv_1000_it",
     "id_album": "96538789",
     "english": "hawk",
-    "list_vietnam": [
+    "list_mean": [
       "(động vật học) diều hâu; chim ưng",
       "(từ Mỹ,nghĩa Mỹ) (chính trị) người ủng hộ chính sách hiếu chiến trong công tác đối ngoại; kẻ diều hâu",
       "săn bằng chim ưng",
       "( to hawk something about / around ) chào (hàng) để bán bằng cách đi đến từng nhà, từng đường phố...",
       "tung tin bằng cách nói"
-    ]
+    ],
+    "cau_en": "who's been hawking gossip about ?",
+    "cau_vn": "ai là người đã truyền tin đồn khắp nơi?",
+    "hash_code_list_mean": "-945840837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hazardous_lv_1000_it.json",
     "id_item": "hazardous_lv_1000_it",
     "id_album": "96538789",
     "english": "hazardous",
-    "list_vietnam": [
+    "list_mean": [
       "mạo hiểm; nguy hiểm"
-    ]
+    ],
+    "cau_en": "hazardous work , circumstances",
+    "cau_vn": "công việc, tình huống nguy hiểm",
+    "hash_code_list_mean": "1116460728"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/head_lv_1000_it.json",
     "id_item": "head_lv_1000_it",
     "id_album": "96538789",
     "english": "head",
-    "list_vietnam": [
+    "list_mean": [
       "cái đầu (người, thú vật)",
       "đầu óc, trí nhớ; năng khiếu, tài năng",
       "(thông tục) chứng nhức đầu sau khi uống rượu say",
@@ -1016,14 +1208,17 @@
       "kết thành bắp (bắp cải); kết thành cụm đầu (hoa...)",
       "mưng chín (mụn nhọt)",
       "tiến về, hướng về, đi về (phía nào...)"
-    ]
+    ],
+    "cau_en": "from head to foot",
+    "cau_vn": "từ đầu đến chân",
+    "hash_code_list_mean": "212124128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/heart_lv_1000_it.json",
     "id_item": "heart_lv_1000_it",
     "id_album": "96538789",
     "english": "heart",
-    "list_vietnam": [
+    "list_mean": [
       "(giải phẫu) tim",
       "lồng ngực",
       "trái tim, lòng, tấm lòng, tâm can, tâm hồn",
@@ -1036,26 +1231,32 @@
       "sự màu mỡ (đất)",
       "(đánh bài), ( số nhiều) \"cơ\" , ( số ít) lá bài \"cơ\"",
       "vật hình tim"
-    ]
+    ],
+    "cau_en": "to draw somebody to one's heart",
+    "cau_vn": "kéo ai vào lòng",
+    "hash_code_list_mean": "-1648068583"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hear_lv_1000_it.json",
     "id_item": "hear_lv_1000_it",
     "id_album": "96538789",
     "english": "hear",
-    "list_vietnam": [
+    "list_mean": [
       "nghe",
       "lắng nghe và xét xử (một vụ kiện) ở phiên toà",
       "nghe nói hoặc được thông tin về điều gì",
       "( + of , about , from ) nghe nói, nghe tin, được tin, biết tin; nhận được (thư...)"
-    ]
+    ],
+    "cau_en": "he doesn't hear well",
+    "cau_vn": "anh ta nghe không rõ",
+    "hash_code_list_mean": "-2010876251"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/heat_lv_1000_it.json",
     "id_item": "heat_lv_1000_it",
     "id_album": "96538789",
     "english": "heat",
-    "list_vietnam": [
+    "list_mean": [
       "hơi nóng, sức nóng; sự nóng",
       "(vật lý) nhiệt",
       "sự nóng bức, sự nóng nực",
@@ -1075,14 +1276,17 @@
       "nóng lên, trở nên nóng",
       "nổi nóng, nổi giận",
       "sôi nổi lên"
-    ]
+    ],
+    "cau_en": "internal heat",
+    "cau_vn": "nội nhiệt",
+    "hash_code_list_mean": "15516952"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/heave_lv_1000_it.json",
     "id_item": "heave_lv_1000_it",
     "id_album": "96538789",
     "english": "heave",
-    "list_vietnam": [
+    "list_mean": [
       "sự cố nhấc lên, sự cố kéo",
       "sự ráng sức",
       "sự nhô lên, sự trào lên, sự căng phồng",
@@ -1104,14 +1308,17 @@
       "thở hổn hển",
       "nôn oẹ",
       "(hàng hải) chạy, đi (tàu)"
-    ]
+    ],
+    "cau_en": "to heave a sigh",
+    "cau_vn": "thốt ra một tiếng thở dài, thở dài sườn sượt",
+    "hash_code_list_mean": "-582139327"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/heavy_lv_1000_it.json",
     "id_item": "heavy_lv_1000_it",
     "id_album": "96538789",
     "english": "heavy",
-    "list_vietnam": [
+    "list_mean": [
       "nặng, nặng nề ( (nghĩa đen) & (nghĩa bóng))",
       "( + with ) chất nặng, chứa đầy, nặng trĩu",
       "nặng, khó tiêu (thức ăn)",
@@ -1134,33 +1341,42 @@
       "( số nhiều) ( the Heavies ) trọng pháo",
       "(từ Mỹ,nghĩa Mỹ) võ sĩ hạng nặng, đồ vật hạng nặng; người nặng trên trung bình",
       "(từ Mỹ,nghĩa Mỹ) vai nghiêm nghị khắc khổ (trên (sân khấu))"
-    ]
+    ],
+    "cau_en": "a heavy burden",
+    "cau_vn": "gánh nặng",
+    "hash_code_list_mean": "2071328222"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/height_lv_1000_it.json",
     "id_item": "height_lv_1000_it",
     "id_album": "96538789",
     "english": "height",
-    "list_vietnam": [
+    "list_mean": [
       "số đo từ đáy lên đỉnh của một vật hoặc từ đầu đếnchân của một người đang đứng; chiều cao",
       "điểm cao nhất, đỉnh cao nhất"
-    ]
+    ],
+    "cau_en": "what's the height of the mountain ?",
+    "cau_vn": "ngọn núi cao bao nhiêu?",
+    "hash_code_list_mean": "367127137"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/helpful_lv_1000_it.json",
     "id_item": "helpful_lv_1000_it",
     "id_album": "96538789",
     "english": "helpful",
-    "list_vietnam": [
+    "list_mean": [
       "giúp đỡ; giúp ích; có ích"
-    ]
+    ],
+    "cau_en": "a helpful person /suggestion /map",
+    "cau_vn": "một con người/lời gợi ý/tấm bản đồ hữu ích",
+    "hash_code_list_mean": "-577695027"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/help_lv_1000_it.json",
     "id_item": "help_lv_1000_it",
     "id_album": "96538789",
     "english": "help",
-    "list_vietnam": [
+    "list_mean": [
       "sự giúp đỡ hoặc được giúp đỡ sự cứu giúp, sự giúp ích",
       "phương cứu chữa, lối thoát",
       "người giúp đỡ, vật giúp ích",
@@ -1169,56 +1385,71 @@
       "đưa mời (đồ ăn, thức uống)",
       "tự tiện sử dụng cái gì",
       "làm cho cái gì dễ xảy ra"
-    ]
+    ],
+    "cau_en": "to need someone's help",
+    "cau_vn": "cần sự giúp đỡ của ai",
+    "hash_code_list_mean": "1852678402"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/here_lv_1000_it.json",
     "id_item": "here_lv_1000_it",
     "id_album": "96538789",
     "english": "here",
-    "list_vietnam": [
+    "list_mean": [
       "(dùng với một động từ hoặc sau giới từ) đây; ở đây; ở chỗ này",
       "tại điểm này; đến đây",
       "ngay tại đây",
       "này!",
       "có mặt! (khi điểm danh)"
-    ]
+    ],
+    "cau_en": "I have lived here for ten years",
+    "cau_vn": "Tôi sống ở đây đã mười năm",
+    "hash_code_list_mean": "1034879252"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/her_lv_1000_it.json",
     "id_item": "her_lv_1000_it",
     "id_album": "96538789",
     "english": "her",
-    "list_vietnam": [
+    "list_mean": [
       "nó, cô ấy, bà ấy, chị ấy...",
       "của nó, của cô ấy, của bà ấy, của chị ấy..."
-    ]
+    ],
+    "cau_en": "give it her",
+    "cau_vn": "đưa cái đó cho cô ấy",
+    "hash_code_list_mean": "-1461909413"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hew_lv_1000_it.json",
     "id_item": "hew_lv_1000_it",
     "id_album": "96538789",
     "english": "hew",
-    "list_vietnam": [
+    "list_mean": [
       "chặt, đốn, đẽo; bổ"
-    ]
+    ],
+    "cau_en": "to hew down a tree",
+    "cau_vn": "đốn cây",
+    "hash_code_list_mean": "1574081646"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/highly_lv_1000_it.json",
     "id_item": "highly_lv_1000_it",
     "id_album": "96538789",
     "english": "highly",
-    "list_vietnam": [
+    "list_mean": [
       "rất, lắm, hết sức, ở mức độ cao",
       "tốt, cao; với ý tôn trọng, với ý ca ngợi"
-    ]
+    ],
+    "cau_en": "to commend highly",
+    "cau_vn": "hết sức ca ngợi",
+    "hash_code_list_mean": "731067931"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/high_lv_1000_it.json",
     "id_item": "high_lv_1000_it",
     "id_album": "96538789",
     "english": "high",
-    "list_vietnam": [
+    "list_mean": [
       "cao",
       "cao giá, đắt",
       "lớn, trọng; tối cao, cao cấp; thượng, trên",
@@ -1237,48 +1468,60 @@
       "độ cao; điểm cao",
       "quân bài cao nhất (đánh ra hay rút được)",
       "nơi cao, trời cao"
-    ]
+    ],
+    "cau_en": "high mountain",
+    "cau_vn": "núi cao",
+    "hash_code_list_mean": "1311172726"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hill_lv_1000_it.json",
     "id_item": "hill_lv_1000_it",
     "id_album": "96538789",
     "english": "hill",
-    "list_vietnam": [
+    "list_mean": [
       "đồi",
       "cồn, gò, đống, đụn, mô đất, chỗ đất đùn lên (mối, kiến...)",
       "( the Hills ) ( Anh-Ấn) vùng đồi núi nơi nghỉ an dưỡng",
       "đắp thành đồi",
       "( (thường) + up ) vun đất (vào gốc cây)"
-    ]
+    ],
+    "cau_en": "to hill up a plant",
+    "cau_vn": "vun đất vào gốc cây",
+    "hash_code_list_mean": "-520087525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/history_lv_1000_it.json",
     "id_item": "history_lv_1000_it",
     "id_album": "96538789",
     "english": "history",
-    "list_vietnam": [
+    "list_mean": [
       "môn lịch sử; khoa sử học",
       "quá trình lịch sử; lịch sử",
       "sự việc, sự kiện không còn thích hợp hoặc quan trọng nữa; chuyện cũ rích"
-    ]
+    ],
+    "cau_en": "a student of Vietnamese history",
+    "cau_vn": "sinh viên về lịch sử Việt Nam",
+    "hash_code_list_mean": "-587210487"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/his_lv_1000_it.json",
     "id_item": "his_lv_1000_it",
     "id_album": "96538789",
     "english": "his",
-    "list_vietnam": [
+    "list_mean": [
       "của nó, của hắn, của ông ấy, của anh ấy",
       "cái của nó, cái của hắn, cái của ông ấy, cái của anh ấy"
-    ]
+    ],
+    "cau_en": "his hat",
+    "cau_vn": "cái mũ của hắn",
+    "hash_code_list_mean": "634731329"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hit_lv_1000_it.json",
     "id_item": "hit_lv_1000_it",
     "id_album": "96538789",
     "english": "hit",
-    "list_vietnam": [
+    "list_mean": [
       "đòn, cú đánh trúng (đấm, bắn, ném)",
       "việc thành công; việc đạt kết quả; việc may mắn",
       "lời chỉ trích cay độc, nhận xét gay gắt",
@@ -1292,14 +1535,17 @@
       "( + at ) nhằm đánh",
       "( + against , upon ) vấp phải, va trúng",
       "( + on , upon ) tìm ra, vớ được"
-    ]
+    ],
+    "cau_en": "a clever hit",
+    "cau_vn": "một đòn hay",
+    "hash_code_list_mean": "932837103"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hold_lv_1000_it.json",
     "id_item": "hold_lv_1000_it",
     "id_album": "96538789",
     "english": "hold",
-    "list_vietnam": [
+    "list_mean": [
       "khoang (của tàu thủy)",
       "sự cầm, sự nắm giữ, sự nắm chặt",
       "(nghĩa bóng) sự nắm được, sự hiểu thấu",
@@ -1325,14 +1571,17 @@
       "có giá trị, có hiệu lực, có thể áp dụng ( (cũng) to hold good , to hold true )",
       "(từ lóng) ( (thường) phủ định + with ) tán thành",
       "(từ cổ,nghĩa cổ) hold ! đứng lại, dừng lại; đợi một tí!"
-    ]
+    ],
+    "cau_en": "to take (get , keep ) hold of",
+    "cau_vn": "nắm giữ, nắm chặt (cái gì)",
+    "hash_code_list_mean": "-259593017"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hole_lv_1000_it.json",
     "id_item": "hole_lv_1000_it",
     "id_album": "96538789",
     "english": "hole",
-    "list_vietnam": [
+    "list_mean": [
       "lỗ, lỗ thủng; lỗ trống; lỗ khoan",
       "lỗ đáo; lỗ đặt bóng (trong một số trò chơi)",
       "chỗ sâu, chỗ trũng (ở dòng suối); hố",
@@ -1350,14 +1599,17 @@
       "(thể dục,thể thao) đánh bóng vào lỗ (đánh gôn)",
       "(ngành mỏ) đào hầm thông (từ hầm này sang hầm khác)",
       "nấp trốn trong hang (thú vật)"
-    ]
+    ],
+    "cau_en": "we found holes in his argument",
+    "cau_vn": "trong lý lẽ của anh ta chúng tôi thấy có những lỗ hổng (thiếu sót)",
+    "hash_code_list_mean": "532109001"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/home_lv_1000_it.json",
     "id_item": "home_lv_1000_it",
     "id_album": "96538789",
     "english": "home",
-    "list_vietnam": [
+    "list_mean": [
       "nhà, chỗ ở",
       "nhà, gia đình, tổ ấm",
       "quê hương, tổ quốc, nơi chôn nhau cắt rún, nước nhà",
@@ -1369,36 +1621,45 @@
       "trong nước (không phải ngoại nhập); nội địa",
       "(thể dục thể thao) chơi ở hoặc liên quan tới sân nhà",
       "ở tại nhà mình, ở tại nước mình"
-    ]
+    ],
+    "cau_en": "to have neither hearth nor home",
+    "cau_vn": "không cửa không nhà",
+    "hash_code_list_mean": "157199049"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/honest_lv_1000_it.json",
     "id_item": "honest_lv_1000_it",
     "id_album": "96538789",
     "english": "honest",
-    "list_vietnam": [
+    "list_mean": [
       "thật thà, lương thiện, thành thật, chân thật",
       "thật, thành thực"
-    ]
+    ],
+    "cau_en": "an honest witness /businessman",
+    "cau_vn": "một nhân chứng/doanh nhân trung thực",
+    "hash_code_list_mean": "1144333850"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hope_lv_1000_it.json",
     "id_item": "hope_lv_1000_it",
     "id_album": "96538789",
     "english": "hope",
-    "list_vietnam": [
+    "list_mean": [
       "( hope of / for something ) ( hope of doing something / that ...) niềm hy vọng",
       "nguồn hy vọng",
       "hy vọng",
       "ước mong, trông mong"
-    ]
+    ],
+    "cau_en": "we pinned /anchored /set all our hopes on you",
+    "cau_vn": "chúng tôi đặt hết hy vọng vào anh",
+    "hash_code_list_mean": "-488716982"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/horse_lv_1000_it.json",
     "id_item": "horse_lv_1000_it",
     "id_album": "96538789",
     "english": "horse",
-    "list_vietnam": [
+    "list_mean": [
       "ngựa",
       "kỵ binh",
       "(thể dục,thể thao) ngựa gỗ ( (cũng) vaulting horse )",
@@ -1410,26 +1671,32 @@
       "(ngành mỏ) khối đá nằm ngang (trong mạch mỏ)",
       "(từ Mỹ,nghĩa Mỹ) (như) horse-power",
       "(từ Mỹ,nghĩa Mỹ), (từ lóng) bài dịch để quay cóp (của học sinh)"
-    ]
+    ],
+    "cau_en": "to take horse",
+    "cau_vn": "đi ngựa, cưỡi ngựa",
+    "hash_code_list_mean": "-467186218"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hose_lv_1000_it.json",
     "id_item": "hose_lv_1000_it",
     "id_album": "96538789",
     "english": "hose",
-    "list_vietnam": [
+    "list_mean": [
       "bít tất dài",
       "( số nhiều) ống vòi",
       "lắp ống, lắp vòi",
       "tưới nước bằng vòi"
-    ]
+    ],
+    "cau_en": "rubber hoses",
+    "cau_vn": "ống cao su",
+    "hash_code_list_mean": "-675054443"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hot_lv_1000_it.json",
     "id_item": "hot_lv_1000_it",
     "id_album": "96538789",
     "english": "hot",
-    "list_vietnam": [
+    "list_mean": [
       "nóng, nóng bức",
       "cay nồng, cay bỏng (ớt, tiêu...)",
       "nồng nặc, còn ngửi thấy rõ (hơi thú săn)",
@@ -1446,39 +1713,48 @@
       "(từ Mỹ,nghĩa Mỹ) (về hàng hoá) bị ăn cắp và khó tiêu thụ vì công an truy nã gắt gao",
       "(từ Mỹ,nghĩa Mỹ) không an toàn cho kẻ trốn tránh",
       "trở nên sôi động hoặc nguy kịch hơn"
-    ]
+    ],
+    "cau_en": "hot weather /climate",
+    "cau_vn": "thời tiết/khí hậu nóng bức",
+    "hash_code_list_mean": "429120883"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hound_lv_1000_it.json",
     "id_item": "hound_lv_1000_it",
     "id_album": "96538789",
     "english": "hound",
-    "list_vietnam": [
+    "list_mean": [
       "chó săn",
       "kẻ đê tiện đáng khinh",
       "người theo vết giầy đi tìm (trong trò chơi chạy đuổi rắc giấy) ( (xem) hare )",
       "(như) houndfish",
       "săn lùng"
-    ]
+    ],
+    "cau_en": "the hounds",
+    "cau_vn": "bầy chó săn",
+    "hash_code_list_mean": "2085766162"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hour_lv_1000_it.json",
     "id_item": "hour_lv_1000_it",
     "id_album": "96538789",
     "english": "hour",
-    "list_vietnam": [
+    "list_mean": [
       "mồtphân hai mươi tư của ngày và đêm; 60 phút; giờ, tiếng (đồng hồ)",
       "( hours ) (dùng để tính thời gian theo 24 giờ đồng hồ); (khoảng thời gian ấn định để làm việc, sử dụng phương tiện...)",
       "khoảng cách có thể đi được trong một tiếng đồng hồ",
       "(nghĩa bóng) lúc; giờ phút"
-    ]
+    ],
+    "cau_en": "half an hour",
+    "cau_vn": "nửa giờ",
+    "hash_code_list_mean": "682596279"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/house_lv_1000_it.json",
     "id_item": "house_lv_1000_it",
     "id_album": "96538789",
     "english": "house",
-    "list_vietnam": [
+    "list_mean": [
       "nhà ở, căn nhà, toà nhà",
       "nhà, chuồng",
       "quán trọ, quán rượu, tiệm (rượu...)",
@@ -1499,81 +1775,105 @@
       "(hàng hải) hạ (cột buồm)",
       "(kỹ thuật) lắp vào ổ mộng (đồ mộc)",
       "ở, trú"
-    ]
+    ],
+    "cau_en": "the house of God",
+    "cau_vn": "nhà thờ",
+    "hash_code_list_mean": "1011064331"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/how_lv_1000_it.json",
     "id_item": "how_lv_1000_it",
     "id_album": "96538789",
     "english": "how",
-    "list_vietnam": [
+    "list_mean": [
       "theo cách nào hoặc như thế nào",
       "tình trạng sức khoẻ thế nào; hoàn cảnh thế nào",
       "(dùng trước tính từ hoặc phó từ) tới chừng mực hoặc mức độ nào; bao nhiêu",
       "làm sao, biết bao, xiết bao, biết bao nhiêu, sao mà... đến thế",
       "cách mà, như thế nào"
-    ]
+    ],
+    "cau_en": "he doesn't know how to behave",
+    "cau_vn": "hắn không biết xử sự thế nào; hắn không biết cách xử sự",
+    "hash_code_list_mean": "-206415345"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/huge_lv_1000_it.json",
     "id_item": "huge_lv_1000_it",
     "id_album": "96538789",
     "english": "huge",
-    "list_vietnam": [
+    "list_mean": [
       "to lớn, đồ sộ, khổng lồ"
-    ]
+    ],
+    "cau_en": "a huge mistake",
+    "cau_vn": "sai lầm to lớn",
+    "hash_code_list_mean": "-8407041"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/human_lv_1000_it.json",
     "id_item": "human_lv_1000_it",
     "id_album": "96538789",
     "english": "human",
-    "list_vietnam": [
+    "list_mean": [
       "(thuộc) con người, (thuộc) loài người",
       "có tính người, có tình cảm của con người",
       "con người"
-    ]
+    ],
+    "cau_en": "human being",
+    "cau_vn": "con người",
+    "hash_code_list_mean": "-1657865803"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/humble_lv_1000_it.json",
     "id_item": "humble_lv_1000_it",
     "id_album": "96538789",
     "english": "humble",
-    "list_vietnam": [
+    "list_mean": [
       "khiêm tốn, nhún nhường",
       "khúm núm",
       "thấp kém, hèn mọn (cấp bậc, địa vị xã hôi, thành phần)",
       "xoàng xĩnh, tầm thường; nhỏ bé (đồ vật...)",
       "làm nhục, hạ nhục",
       "hạ thấp"
-    ]
+    ],
+    "cau_en": "a humble attitude",
+    "cau_vn": "thái độ khiêm tốn",
+    "hash_code_list_mean": "-773211382"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/humorous_lv_1000_it.json",
     "id_item": "humorous_lv_1000_it",
     "id_album": "96538789",
     "english": "humorous",
-    "list_vietnam": [
+    "list_mean": [
       "khôi hài, hài hước; hóm hỉnh"
-    ]
+    ],
+    "cau_en": "a humorous writer",
+    "cau_vn": "một nhà văn hài hước",
+    "hash_code_list_mean": "1518427507"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hundred_lv_1000_it.json",
     "id_item": "hundred_lv_1000_it",
     "id_album": "96538789",
     "english": "hundred",
-    "list_vietnam": [
+    "list_mean": [
       "trăm",
       "trăm; hàng trăm"
-    ]
+    ],
+    "cau_en": "six hundred men",
+    "cau_vn": "sáu trăm người",
+    "hash_code_list_mean": "1331628259"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hungrily_lv_1000_it.json",
     "id_item": "hungrily_lv_1000_it",
     "id_album": "96538789",
     "english": "hungrily",
-    "list_vietnam": [
+    "list_mean": [
       "khao khát, thèm muốn, thèm thuồng"
-    ]
+    ],
+    "cau_en": "the boss looked hungrily at the beauty queen",
+    "cau_vn": "ông chủ nhìn nàng hoa hậu với vẻ thèm thuồng",
+    "hash_code_list_mean": "-1212296662"
   }
 ]
