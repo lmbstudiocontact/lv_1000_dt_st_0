@@ -1,5 +1,78 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/done_lv_1000_it.json",
+    "id_item": "done_lv_1000_it",
+    "id_album": "90997657",
+    "english": "done",
+    "list_mean": [
+      "(về thức ăn) nấu chín",
+      "có thể chấp nhận về mặt xã hội",
+      "(dùng để cho thấy mình chấp nhận một đề nghị) xong!"
+    ],
+    "cau_en": "let's spend another half an hour painting and then have done with it",
+    "cau_vn": "chúng ta hãy dành thêm nửa giờ nữa để quét sơn, cho nó xong đi",
+    "hash_code_list_mean": "-429956838"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/door_lv_1000_it.json",
+    "id_item": "door_lv_1000_it",
+    "id_album": "90997657",
+    "english": "door",
+    "list_mean": [
+      "cửa, cửa ra vào (nhà, xe ô tô...)",
+      "phương tiện để có được cái gì hoặc đạt được cái gì; cửa ngõ, con đường"
+    ],
+    "cau_en": "the blame for the disaster has been laid firmly at the company's door",
+    "cau_vn": "công ty dứt khoát phải chịu trách nhiệm về tai hoạ này",
+    "hash_code_list_mean": "-324577593"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/double_lv_1000_it.json",
+    "id_item": "double_lv_1000_it",
+    "id_album": "90997657",
+    "english": "double",
+    "list_mean": [
+      "gấp hai lần, nhiều gấp hai lần, gấp đôi",
+      "có hai phần bằng nhau, làm bằng hai vật giống nhau",
+      "được làm cho hai người hoặc hai vật",
+      "đôi, hai, kép",
+      "(về hoa) có nhiều cánh hoa hơn số cánh hoa thông thường; kép",
+      "cái gấp đôi, lượng gấp đôi",
+      "cốc đựng lượng rượu gấp đôi bình thường",
+      "bản giống hệt, bản sao y, cái giống hệt cái khác; người giống hệt người khác",
+      "( doubles ) (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)",
+      "( the double ) (thể dục thể thao) hai giải giành được trong những cuộc thi đấu giống nhau",
+      "(đánh bài) sự đặt tiền gấp đôi",
+      "(trò chơi ném phi tiêu) trúng vòng ngoài của bia, ghi điểm thắng gấp đôi",
+      "(sân khấu) người diễn thay một một diễn viên trong những cảnh nguy hiểm",
+      "thành hai hoặc thành hai phần",
+      "làm gấp đôi, tăng gấp đôi, nhân gấp đôi",
+      "( to double something up / over / across / back ) uốn làm đôi; gập đôi",
+      "tạm thời dùng làm cái gì",
+      "(sân khấu); (điện ảnh) đóng (một vai thứ hai) cũng giỏi như vai kia",
+      "chơi hoặc hát cùng một bản nhạc như (một nhạc cụ hoặc một giọng hát khác); hoà điệu",
+      "nắm chặt (nắm tay)"
+    ],
+    "cau_en": "if you double all the quantities in the recipe , it'll be enough for eight people",
+    "cau_vn": "nếu anh tăng gấp đôi tất cả các số lượng trong thực đơn thì sẽ đủ cho tám người",
+    "hash_code_list_mean": "-104767541"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dove_lv_1000_it.json",
+    "id_item": "dove_lv_1000_it",
+    "id_album": "90997657",
+    "english": "dove",
+    "list_mean": [
+      "chim bồ câu",
+      "người đem tin mừng; sứ giả của hoà bình",
+      "người yêu quý, \"bồ câu nhỏ\" (tiếng gọi thân mật)",
+      "(chính trị) người chủ trương hoà bình (đối với kẻ hiếu chiến)"
+    ],
+    "cau_en": "Dove of Peace",
+    "cau_vn": "chim bồ câu hoà bình",
+    "hash_code_list_mean": "101448044"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/down_lv_1000_it.json",
     "id_item": "down_lv_1000_it",
     "id_album": "90997657",
@@ -1714,75 +1787,5 @@
     "cau_en": "my watch is five minutes fast",
     "cau_vn": "đồng hồ của tôi chạy nhanh năm phút",
     "hash_code_list_mean": "-1097180116"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/father_lv_1000_it.json",
-    "id_item": "father_lv_1000_it",
-    "id_album": "90997657",
-    "english": "father",
-    "list_mean": [
-      "cha, bố",
-      "(nghĩa bóng) người cha, người đẻ ra, người sản sinh ra",
-      "tổ tiên, ông tổ",
-      "người thầy, người cha",
-      "Chúa, Thượng đế",
-      "(tôn giáo) cha cố",
-      "người nhiều tuổi nhất, cụ",
-      "sản sinh, là bố của"
-    ],
-    "cau_en": "the wish is father to the thought",
-    "cau_vn": "ước vọng sinh ra sự tin tưởng",
-    "hash_code_list_mean": "1219333926"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/fat_lv_1000_it.json",
-    "id_item": "fat_lv_1000_it",
-    "id_album": "90997657",
-    "english": "fat",
-    "list_mean": [
-      "được vỗ béo (để giết thịt)",
-      "béo, mập, béo phì, mũm mĩm",
-      "béo, đậm nét (chữ in)",
-      "béo, có dầu, có mỡ",
-      "béo (than)",
-      "dính, nhờn (chất đất...)",
-      "màu mỡ, tốt",
-      "béo bở, có lợi, có lãi",
-      "đầy ắp",
-      "chậm chạp, trì độn",
-      "mỡ, chất béo",
-      "(hoá học) glyxêrit",
-      "(sân khấu) vai thích hợp"
-    ],
-    "cau_en": "a fat lot of good it did you",
-    "cau_vn": "tưởng bở lắm đấy à",
-    "hash_code_list_mean": "-1018567088"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/fearless_lv_1000_it.json",
-    "id_item": "fearless_lv_1000_it",
-    "id_album": "90997657",
-    "english": "fearless",
-    "list_mean": [
-      "( fearless of something ) chẳng sợ cái gì; can đảm"
-    ],
-    "cau_en": "fearless of the consequences",
-    "cau_vn": "không sợ hậu quả",
-    "hash_code_list_mean": "1207358939"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/fear_lv_1000_it.json",
-    "id_item": "fear_lv_1000_it",
-    "id_album": "90997657",
-    "english": "fear",
-    "list_mean": [
-      "sự sợ hãi; sự khiếp sợ",
-      "sự kính sợ",
-      "sợ; lo ngại",
-      "kính sợ"
-    ],
-    "cau_en": "we spoke in whispers for fear of waking the baby /for fear (that ) we might wake the baby",
-    "cau_vn": "chúng tôi nói thì thầm sợ rằng có thể đánh thức đứa bé",
-    "hash_code_list_mean": "62127790"
   }
 ]

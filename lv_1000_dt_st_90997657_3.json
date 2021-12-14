@@ -1,5 +1,35 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contaminate_lv_1000_it.json",
+    "id_item": "contaminate_lv_1000_it",
+    "id_album": "90997657",
+    "english": "contaminate",
+    "list_mean": [
+      "làm bẩn, làm ô uế",
+      "làm nhiễm (bệnh)",
+      "làm hư hỏng"
+    ],
+    "cau_en": "to be contaminated by companions",
+    "cau_vn": "bị bạn xấu làm hư hỏng",
+    "hash_code_list_mean": "1927227919"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/continue_lv_1000_it.json",
+    "id_item": "continue_lv_1000_it",
+    "id_album": "90997657",
+    "english": "continue",
+    "list_mean": [
+      "tiếp tục, làm tiếp",
+      "giữ, duy trì",
+      "vẫn cứ, tiếp diễn",
+      "ở lại",
+      "(pháp lý) hoãn lại, đình lại (một vụ kiện)"
+    ],
+    "cau_en": "if you continue to be stubborn",
+    "cau_vn": "nếu anh vẫn cứ cứng đầu cứng cổ",
+    "hash_code_list_mean": "-1687032602"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contribute_lv_1000_it.json",
     "id_item": "contribute_lv_1000_it",
     "id_album": "90997657",
@@ -533,6 +563,23 @@
     "cau_en": "to crowd someone into doing something",
     "cau_vn": "dùng áp lực bắt ai làm gì, cưỡng bách ai làm gì",
     "hash_code_list_mean": "-663349300"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crow_lv_1000_it.json",
+    "id_item": "crow_lv_1000_it",
+    "id_album": "90997657",
+    "english": "crow",
+    "list_mean": [
+      "con quạ",
+      "như crowbar",
+      "tiếng gà gáy",
+      "tiếng trẻ con bi bô",
+      "gáy (gà)",
+      "nói bi bô (trẻ con)"
+    ],
+    "cau_en": "she won the competition and won't stop crowing (over her rivals /her rivals' failure )",
+    "cau_vn": "cô ta giành chiến thắng trong cuộc đua và sẽ không ngớt reo mừng (trước các đối thủ/sự thất bại của các đối thủ)",
+    "hash_code_list_mean": "-1419352956"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cry_lv_1000_it.json",
@@ -1673,6 +1720,19 @@
     "hash_code_list_mean": "1711370365"
   },
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dollar_lv_1000_it.json",
+    "id_item": "dollar_lv_1000_it",
+    "id_album": "90997657",
+    "english": "dollar",
+    "list_mean": [
+      "đồng đô la ( Mỹ)",
+      "(từ lóng) đồng 5 silinh, đồng curon"
+    ],
+    "cau_en": "Will we all survive until the year 2000? That's the sixty-four thousand dollar question",
+    "cau_vn": "Liệu tất cả chúng ta có sống được đến năm 2000 chăng? Quả là một câu hỏi khó trả lời",
+    "hash_code_list_mean": "718811554"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dominate_lv_1000_it.json",
     "id_item": "dominate_lv_1000_it",
     "id_album": "90997657",
@@ -1686,78 +1746,5 @@
     "cau_en": "to dominate [over ] a people",
     "cau_vn": "thống trị một dân tộc",
     "hash_code_list_mean": "-256203701"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/done_lv_1000_it.json",
-    "id_item": "done_lv_1000_it",
-    "id_album": "90997657",
-    "english": "done",
-    "list_mean": [
-      "(về thức ăn) nấu chín",
-      "có thể chấp nhận về mặt xã hội",
-      "(dùng để cho thấy mình chấp nhận một đề nghị) xong!"
-    ],
-    "cau_en": "let's spend another half an hour painting and then have done with it",
-    "cau_vn": "chúng ta hãy dành thêm nửa giờ nữa để quét sơn, cho nó xong đi",
-    "hash_code_list_mean": "-429956838"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/door_lv_1000_it.json",
-    "id_item": "door_lv_1000_it",
-    "id_album": "90997657",
-    "english": "door",
-    "list_mean": [
-      "cửa, cửa ra vào (nhà, xe ô tô...)",
-      "phương tiện để có được cái gì hoặc đạt được cái gì; cửa ngõ, con đường"
-    ],
-    "cau_en": "the blame for the disaster has been laid firmly at the company's door",
-    "cau_vn": "công ty dứt khoát phải chịu trách nhiệm về tai hoạ này",
-    "hash_code_list_mean": "-324577593"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/double_lv_1000_it.json",
-    "id_item": "double_lv_1000_it",
-    "id_album": "90997657",
-    "english": "double",
-    "list_mean": [
-      "gấp hai lần, nhiều gấp hai lần, gấp đôi",
-      "có hai phần bằng nhau, làm bằng hai vật giống nhau",
-      "được làm cho hai người hoặc hai vật",
-      "đôi, hai, kép",
-      "(về hoa) có nhiều cánh hoa hơn số cánh hoa thông thường; kép",
-      "cái gấp đôi, lượng gấp đôi",
-      "cốc đựng lượng rượu gấp đôi bình thường",
-      "bản giống hệt, bản sao y, cái giống hệt cái khác; người giống hệt người khác",
-      "( doubles ) (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)",
-      "( the double ) (thể dục thể thao) hai giải giành được trong những cuộc thi đấu giống nhau",
-      "(đánh bài) sự đặt tiền gấp đôi",
-      "(trò chơi ném phi tiêu) trúng vòng ngoài của bia, ghi điểm thắng gấp đôi",
-      "(sân khấu) người diễn thay một một diễn viên trong những cảnh nguy hiểm",
-      "thành hai hoặc thành hai phần",
-      "làm gấp đôi, tăng gấp đôi, nhân gấp đôi",
-      "( to double something up / over / across / back ) uốn làm đôi; gập đôi",
-      "tạm thời dùng làm cái gì",
-      "(sân khấu); (điện ảnh) đóng (một vai thứ hai) cũng giỏi như vai kia",
-      "chơi hoặc hát cùng một bản nhạc như (một nhạc cụ hoặc một giọng hát khác); hoà điệu",
-      "nắm chặt (nắm tay)"
-    ],
-    "cau_en": "if you double all the quantities in the recipe , it'll be enough for eight people",
-    "cau_vn": "nếu anh tăng gấp đôi tất cả các số lượng trong thực đơn thì sẽ đủ cho tám người",
-    "hash_code_list_mean": "-104767541"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dove_lv_1000_it.json",
-    "id_item": "dove_lv_1000_it",
-    "id_album": "90997657",
-    "english": "dove",
-    "list_mean": [
-      "chim bồ câu",
-      "người đem tin mừng; sứ giả của hoà bình",
-      "người yêu quý, \"bồ câu nhỏ\" (tiếng gọi thân mật)",
-      "(chính trị) người chủ trương hoà bình (đối với kẻ hiếu chiến)"
-    ],
-    "cau_en": "Dove of Peace",
-    "cau_vn": "chim bồ câu hoà bình",
-    "hash_code_list_mean": "101448044"
   }
 ]

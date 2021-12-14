@@ -615,7 +615,7 @@
     "hash_code_list_mean": "1719964153"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/outbid_lv_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/outbid_lv_1000_it.json",
     "id_item": "outbid_lv_1000_it",
     "id_album": "102079921",
     "english": "outbid",
@@ -629,7 +629,7 @@
     "hash_code_list_mean": "-1628013091"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/outdo_lv_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/outdo_lv_1000_it.json",
     "id_item": "outdo_lv_1000_it",
     "id_album": "102079921",
     "english": "outdo",
@@ -642,7 +642,7 @@
     "hash_code_list_mean": "-2147180800"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/outfight_lv_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/outfight_lv_1000_it.json",
     "id_item": "outfight_lv_1000_it",
     "id_album": "102079921",
     "english": "outfight",
@@ -655,7 +655,7 @@
     "hash_code_list_mean": "-809866102"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/outgrow_lv_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/outgrow_lv_1000_it.json",
     "id_item": "outgrow_lv_1000_it",
     "id_album": "102079921",
     "english": "outgrow",
@@ -668,7 +668,7 @@
     "hash_code_list_mean": "-287414223"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/output_lv_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/output_lv_1000_it.json",
     "id_item": "output_lv_1000_it",
     "id_album": "102079921",
     "english": "output",
@@ -683,7 +683,19 @@
     "hash_code_list_mean": "1368835476"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/out_lv_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/outrun_lv_1000_it.json",
+    "id_item": "outrun_lv_1000_it",
+    "id_album": "102079921",
+    "english": "outrun",
+    "list_mean": [
+      "chạy nhanh hơn hoặc giỏi hơn ai/cái gì; vượt"
+    ],
+    "cau_en": "The favorite easily outran the other horses in the field",
+    "cau_vn": "Con ngựa được nhiều người ưa thích đã vượt qua các con ngựa đua khác",
+    "hash_code_list_mean": "219705921"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/out_lv_1000_it.json",
     "id_item": "out_lv_1000_it",
     "id_album": "102079921",
     "english": "out",
@@ -724,18 +736,6 @@
     "cau_en": "I have forgotten my part and I am out",
     "cau_vn": "tôi quên mất phần vở (kịch) của tôi và tôi cuống lên",
     "hash_code_list_mean": "-423865685"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/outrun_lv_1000_it.json",
-    "id_item": "outrun_lv_1000_it",
-    "id_album": "102079921",
-    "english": "outrun",
-    "list_mean": [
-      "chạy nhanh hơn hoặc giỏi hơn ai/cái gì; vượt"
-    ],
-    "cau_en": "The favorite easily outran the other horses in the field",
-    "cau_vn": "Con ngựa được nhiều người ưa thích đã vượt qua các con ngựa đua khác",
-    "hash_code_list_mean": "219705921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/oval_lv_1000_it.json",
@@ -1147,6 +1147,18 @@
     "hash_code_list_mean": "-46328467"
   },
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/party_lv_1000_it.json",
+    "id_item": "party_lv_1000_it",
+    "id_album": "102079921",
+    "english": "party",
+    "list_mean": [
+      "đảng"
+    ],
+    "cau_en": "an old party with spectales",
+    "cau_vn": "lão đeo kính",
+    "hash_code_list_mean": "15673610"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/part_lv_1000_it.json",
     "id_item": "part_lv_1000_it",
     "id_album": "102079921",
@@ -1284,6 +1296,20 @@
     "cau_en": "I strongly advised him not to take that path",
     "cau_vn": "tôi đã mạnh mẽ khuyên nó không nên đi theo con đường ấy",
     "hash_code_list_mean": "1960842989"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/patient_lv_1000_it.json",
+    "id_item": "patient_lv_1000_it",
+    "id_album": "102079921",
+    "english": "patient",
+    "list_mean": [
+      "kiên nhẫn, nhẫn nại, bền chí",
+      "bệnh nhân; người bệnh",
+      "bệnh nhân đăng ký chữa trị lâu dài với bác sĩ"
+    ],
+    "cau_en": "the facts are patient of two interpretations",
+    "cau_vn": "những sự việc đó có thể có hai cách giải thích",
+    "hash_code_list_mean": "-567787388"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/pattern_lv_1000_it.json",
@@ -1691,51 +1717,5 @@
     "cau_en": "to pick out a ground-colour with another",
     "cau_vn": "làm nổi bật màu nền bằng một màu khác",
     "hash_code_list_mean": "1433422959"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/picture_lv_1000_it.json",
-    "id_item": "picture_lv_1000_it",
-    "id_album": "102079921",
-    "english": "picture",
-    "list_mean": [
-      "bức hoạ, bức vẽ, bức vẽ phát; bức tranh, bức ảnh; chân dung",
-      "vật đẹp, cảnh đẹp, người đẹp..",
-      "người giống hệt (một người khác)",
-      "hình ảnh (tạo thành ấn tượng); sự hình dung",
-      "(chất lượng của) hình ảnh trên màn truyền hình",
-      "hiện thân, điển hình",
-      "phim chiếu bóng, bộ phim; ( the pictures ) rạp chiếu bóng",
-      "(nghĩa bóng) cảnh ngộ; sự việc",
-      "hình dung ra, tưởng tượng ra (cái gì)",
-      "vẽ, chụp bức tranh, ảnh về ( ai/cái gì)",
-      "mô tả ( ai/cái gì)"
-    ],
-    "cau_en": "have you seen her latest picture ?",
-    "cau_vn": "anh xem bộ phim mới nhất của cô ấy chưa?",
-    "hash_code_list_mean": "1120367413"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/piece_lv_1000_it.json",
-    "id_item": "piece_lv_1000_it",
-    "id_album": "102079921",
-    "english": "piece",
-    "list_mean": [
-      "mảnh, mẩu, miếng, viên, cục, khúc...",
-      "bộ phận, mảnh rời, phần tách ra",
-      "thí dụ, vật mẫu; đồ vật, món (hàng..), một khoản",
-      "(thương nghiệp) đơn vị, cái, chiếc, tấm (vải); thùng (rượu...)",
-      "bức (tranh); bài (thơ); bản (nhạc); vở (kịch)",
-      "khẩu súng, khẩu pháo; nòng pháo",
-      "quân cờ",
-      "cái việc, lời, dịp...",
-      "đồng tiền",
-      "(từ Mỹ,nghĩa Mỹ) nhạc khí",
-      "(từ lóng) con bé, thị mẹt",
-      "chấp lại thành một, hợp lại thành một",
-      "nối (chỉ) (lúc quay sợi); ráp từng mảnh với nhau"
-    ],
-    "cau_en": "a tea-service of fourteen pieces",
-    "cau_vn": "một bộ trà mười bốn chiếc",
-    "hash_code_list_mean": "1124878369"
   }
 ]

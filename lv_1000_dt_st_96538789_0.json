@@ -73,6 +73,31 @@
     "hash_code_list_mean": "-57312300"
   },
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gas_lv_1000_it.json",
+    "id_item": "gas_lv_1000_it",
+    "id_album": "96538789",
+    "english": "gas",
+    "list_mean": [
+      "khí",
+      "khí thắp, hơi đốt",
+      "khí tê khi chữa răng ( (cũng) laughing gas )",
+      "(quân sự) hơi độc, hơi ngạt",
+      "khí nổ (mỏ, than)",
+      "(từ Mỹ,nghĩa Mỹ), (thông tục) dầu xăng",
+      "(thông tục) chuyện rỗng tuếch không đâu vào đâu, chuyện tầm phào; chuyện huyên hoang khoác lác",
+      "cung cấp khí thấp, cung cấp hơi đốt (cho một căn buồng)",
+      "hơ (chỉ, sợi...) qua đèn khí (cho hết lông tơ)",
+      "thắp sáng bằng đèn khí",
+      "thả hơi độc, thả hơi ngạt, làm ngạt bằng hơi độc",
+      "(thông tục) lừa bịp (ai) bằng những lời huênh hoang khoác lác",
+      "xì hơi",
+      "nói dông dài; nói chuyện tầm phào; huyên hoang khoác lác"
+    ],
+    "cau_en": "To gas up a plane",
+    "cau_vn": "Đổ xăng cho máy bay",
+    "hash_code_list_mean": "1199932861"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/gather_lv_1000_it.json",
     "id_item": "gather_lv_1000_it",
     "id_album": "96538789",
@@ -1863,17 +1888,5 @@
     "cau_en": "this answer is one hundred per cent accurate",
     "cau_vn": "câu trả lời này chính xác trăm phần trăm, câu trả lời này hoàn toàn chính xác",
     "hash_code_list_mean": "1331628259"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hungrily_lv_1000_it.json",
-    "id_item": "hungrily_lv_1000_it",
-    "id_album": "96538789",
-    "english": "hungrily",
-    "list_mean": [
-      "khao khát, thèm muốn, thèm thuồng"
-    ],
-    "cau_en": "the boss looked hungrily at the beauty queen",
-    "cau_vn": "ông chủ nhìn nàng hoa hậu với vẻ thèm thuồng",
-    "hash_code_list_mean": "-1212296662"
   }
 ]

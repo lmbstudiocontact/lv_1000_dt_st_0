@@ -1,5 +1,40 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/letter_lv_1000_it.json",
+    "id_item": "letter_lv_1000_it",
+    "id_album": "96538789",
+    "english": "letter",
+    "list_mean": [
+      "chữ cái, mẫu tự",
+      "thư; thư từ; thư tín",
+      "nghĩa chật hẹp, nghĩa mặt chữ",
+      "( số nhiều) văn học, văn chương",
+      "(từ Mỹ,nghĩa Mỹ) huy hiệu (tặng cho sinh viên có thành tích thể thao...) ( (thường) là tên tắt của trường)",
+      "viết chữ, khắc chữ lên, in chữ lên",
+      "(kỹ thuật) đánh dấu, in dấu"
+    ],
+    "cau_en": "fill your answers in capital letters , not small letters",
+    "cau_vn": "điền những câu trả lời của bạn bằng chữ hoa, không phải chữ thường",
+    "hash_code_list_mean": "-1669324313"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/let_lv_1000_it.json",
+    "id_item": "let_lv_1000_it",
+    "id_album": "96538789",
+    "english": "let",
+    "list_mean": [
+      "(từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở",
+      "(quần vợt) quả giao bóng chạm lưới",
+      "sự cho thuê",
+      "để cho, cho phép",
+      "cho thuê",
+      "hãy, để, phải"
+    ],
+    "cau_en": "to let the water out of the bath-tub",
+    "cau_vn": "để cho nước ở bồn tắm chảy ra",
+    "hash_code_list_mean": "-624972629"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/level_lv_1000_it.json",
     "id_item": "level_lv_1000_it",
     "id_album": "96538789",

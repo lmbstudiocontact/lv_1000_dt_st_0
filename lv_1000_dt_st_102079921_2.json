@@ -1,5 +1,51 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/picture_lv_1000_it.json",
+    "id_item": "picture_lv_1000_it",
+    "id_album": "102079921",
+    "english": "picture",
+    "list_mean": [
+      "bức hoạ, bức vẽ, bức vẽ phát; bức tranh, bức ảnh; chân dung",
+      "vật đẹp, cảnh đẹp, người đẹp..",
+      "người giống hệt (một người khác)",
+      "hình ảnh (tạo thành ấn tượng); sự hình dung",
+      "(chất lượng của) hình ảnh trên màn truyền hình",
+      "hiện thân, điển hình",
+      "phim chiếu bóng, bộ phim; ( the pictures ) rạp chiếu bóng",
+      "(nghĩa bóng) cảnh ngộ; sự việc",
+      "hình dung ra, tưởng tượng ra (cái gì)",
+      "vẽ, chụp bức tranh, ảnh về ( ai/cái gì)",
+      "mô tả ( ai/cái gì)"
+    ],
+    "cau_en": "have you seen her latest picture ?",
+    "cau_vn": "anh xem bộ phim mới nhất của cô ấy chưa?",
+    "hash_code_list_mean": "1120367413"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/piece_lv_1000_it.json",
+    "id_item": "piece_lv_1000_it",
+    "id_album": "102079921",
+    "english": "piece",
+    "list_mean": [
+      "mảnh, mẩu, miếng, viên, cục, khúc...",
+      "bộ phận, mảnh rời, phần tách ra",
+      "thí dụ, vật mẫu; đồ vật, món (hàng..), một khoản",
+      "(thương nghiệp) đơn vị, cái, chiếc, tấm (vải); thùng (rượu...)",
+      "bức (tranh); bài (thơ); bản (nhạc); vở (kịch)",
+      "khẩu súng, khẩu pháo; nòng pháo",
+      "quân cờ",
+      "cái việc, lời, dịp...",
+      "đồng tiền",
+      "(từ Mỹ,nghĩa Mỹ) nhạc khí",
+      "(từ lóng) con bé, thị mẹt",
+      "chấp lại thành một, hợp lại thành một",
+      "nối (chỉ) (lúc quay sợi); ráp từng mảnh với nhau"
+    ],
+    "cau_en": "a tea-service of fourteen pieces",
+    "cau_vn": "một bộ trà mười bốn chiếc",
+    "hash_code_list_mean": "1124878369"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/pig_lv_1000_it.json",
     "id_item": "pig_lv_1000_it",
     "id_album": "102079921",
@@ -1953,33 +1999,5 @@
     "cau_en": "the copper coinage is rated much above its real value",
     "cau_vn": "tiền đồng được định giá cao hơn giá trị của nó nhiều",
     "hash_code_list_mean": "-2005609793"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/rather_lv_1000_it.json",
-    "id_item": "rather_lv_1000_it",
-    "id_album": "102079921",
-    "english": "rather",
-    "list_mean": [
-      "đúng hơn, hơn là",
-      "phần nào, hơi, khá",
-      "dĩ nhiên là có; có chứ (nhấn mạnh trong khi trả lời)"
-    ],
-    "cau_en": "Some more wine ? - Thank you , I'd rather not . I've to drive home",
-    "cau_vn": "Anh dùng tí rượu nữa nhé? - Cám ơn, tôi xin thôi. Tôi còn phải lái xe về nhà!",
-    "hash_code_list_mean": "-1523916071"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/rational_lv_1000_it.json",
-    "id_item": "rational_lv_1000_it",
-    "id_album": "102079921",
-    "english": "rational",
-    "list_mean": [
-      "có lý trí, dựa trên lý trí",
-      "có lý, phải lẽ; vừa phải, có chừng mực",
-      "(toán học) hữu tỷ"
-    ],
-    "cau_en": "rational algebraic fraction",
-    "cau_vn": "phân thức đại số hữu tỷ",
-    "hash_code_list_mean": "-1852227760"
   }
 ]

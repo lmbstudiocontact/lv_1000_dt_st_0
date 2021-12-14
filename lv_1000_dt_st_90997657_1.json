@@ -1891,32 +1891,17 @@
     "hash_code_list_mean": "639519715"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/can_lv_1000_it.json",
-    "id_item": "can_lv_1000_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/candle_lv_1000_it.json",
+    "id_item": "candle_lv_1000_it",
     "id_album": "90997657",
-    "english": "can",
+    "english": "candle",
     "list_mean": [
-      "dụng cụ bằng kim loại hoặc chất dẻo để đựng hoặc chuyên chở chất lỏng",
-      "(cũng) tin hộp thiếc hoặc sắt tây gắn kín đựng thức ăn hoặc đồ uống để bán; đồ hộp",
-      "cái được chưa đựng hoặc khối lượng đựng trong một lon đồ hộp",
-      "( the can ) nhà tù, trại tù",
-      "( the can ) nhà xí",
-      "đóng hộp (thịt, cá, quả...)",
-      "ghi vào băng ghi âm, thu vào đĩa (bản nhạc)",
-      "(từ lóng) đuổi ra khỏi trường (học sinh); đuổi ra, thải ra",
-      "(từ Mỹ,nghĩa Mỹ), (từ lóng) chấm dứt, chặn lại, ngăn lại",
-      "(từ Mỹ,nghĩa Mỹ), (từ lóng) bỏ tù, bắt giam",
-      "chỉ khả năng",
-      "chỉ kỹ năng hoặc kiến thức có được",
-      "chỉ sự cho phép",
-      "chỉ lời yêu cầu, lời thỉnh cầu",
-      "chỉ sự có thể",
-      "chỉ sự hoang mang hoặc không tin",
-      "mô tả cách cư xử hoặc trạng thái điển hình",
-      "diễn tả lời gợi ý"
+      "cây nến",
+      "(vật lý) nến ( (cũng) candle power )",
+      "soi (trứng)"
     ],
-    "cau_en": "the boys could play football but the girls had to go to the library",
-    "cau_vn": "con trai có thể chơi đá bóng, nhưng con gái thì phải đến thư viện",
-    "hash_code_list_mean": "-1850383791"
+    "cau_en": "she writes quite amusing stories but she can't hold a candle to the serious novelists",
+    "cau_vn": "cô ta viết truyện vui nhưng vẫn kém xa các nhà tiểu thuyết nghiêm túc",
+    "hash_code_list_mean": "-17072123"
   }
 ]

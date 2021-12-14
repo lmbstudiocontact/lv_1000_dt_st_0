@@ -1,5 +1,75 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/father_lv_1000_it.json",
+    "id_item": "father_lv_1000_it",
+    "id_album": "90997657",
+    "english": "father",
+    "list_mean": [
+      "cha, bố",
+      "(nghĩa bóng) người cha, người đẻ ra, người sản sinh ra",
+      "tổ tiên, ông tổ",
+      "người thầy, người cha",
+      "Chúa, Thượng đế",
+      "(tôn giáo) cha cố",
+      "người nhiều tuổi nhất, cụ",
+      "sản sinh, là bố của"
+    ],
+    "cau_en": "the wish is father to the thought",
+    "cau_vn": "ước vọng sinh ra sự tin tưởng",
+    "hash_code_list_mean": "1219333926"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/fat_lv_1000_it.json",
+    "id_item": "fat_lv_1000_it",
+    "id_album": "90997657",
+    "english": "fat",
+    "list_mean": [
+      "được vỗ béo (để giết thịt)",
+      "béo, mập, béo phì, mũm mĩm",
+      "béo, đậm nét (chữ in)",
+      "béo, có dầu, có mỡ",
+      "béo (than)",
+      "dính, nhờn (chất đất...)",
+      "màu mỡ, tốt",
+      "béo bở, có lợi, có lãi",
+      "đầy ắp",
+      "chậm chạp, trì độn",
+      "mỡ, chất béo",
+      "(hoá học) glyxêrit",
+      "(sân khấu) vai thích hợp"
+    ],
+    "cau_en": "a fat lot of good it did you",
+    "cau_vn": "tưởng bở lắm đấy à",
+    "hash_code_list_mean": "-1018567088"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/fearless_lv_1000_it.json",
+    "id_item": "fearless_lv_1000_it",
+    "id_album": "90997657",
+    "english": "fearless",
+    "list_mean": [
+      "( fearless of something ) chẳng sợ cái gì; can đảm"
+    ],
+    "cau_en": "fearless of the consequences",
+    "cau_vn": "không sợ hậu quả",
+    "hash_code_list_mean": "1207358939"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/fear_lv_1000_it.json",
+    "id_item": "fear_lv_1000_it",
+    "id_album": "90997657",
+    "english": "fear",
+    "list_mean": [
+      "sự sợ hãi; sự khiếp sợ",
+      "sự kính sợ",
+      "sợ; lo ngại",
+      "kính sợ"
+    ],
+    "cau_en": "we spoke in whispers for fear of waking the baby /for fear (that ) we might wake the baby",
+    "cau_vn": "chúng tôi nói thì thầm sợ rằng có thể đánh thức đứa bé",
+    "hash_code_list_mean": "62127790"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/feature_lv_1000_it.json",
     "id_item": "feature_lv_1000_it",
     "id_album": "90997657",

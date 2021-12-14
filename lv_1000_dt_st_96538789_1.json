@@ -1,5 +1,17 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hungrily_lv_1000_it.json",
+    "id_item": "hungrily_lv_1000_it",
+    "id_album": "96538789",
+    "english": "hungrily",
+    "list_mean": [
+      "khao khát, thèm muốn, thèm thuồng"
+    ],
+    "cau_en": "the boss looked hungrily at the beauty queen",
+    "cau_vn": "ông chủ nhìn nàng hoa hậu với vẻ thèm thuồng",
+    "hash_code_list_mean": "-1212296662"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/hunt_lv_1000_it.json",
     "id_item": "hunt_lv_1000_it",
     "id_album": "96538789",
@@ -81,6 +93,29 @@
     "cau_en": "hygienic conditions",
     "cau_vn": "những điều kiện (hợp) vệ sinh",
     "hash_code_list_mean": "-1273625265"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ice_lv_1000_it.json",
+    "id_item": "ice_lv_1000_it",
+    "id_album": "96538789",
+    "english": "ice",
+    "list_mean": [
+      "băng, nước đá",
+      "kem",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) kim cương",
+      "(từ Mỹ,nghĩa Mỹ) thái độ trịnh trọng lạnh lùng",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) tiền đấm mõm cho cảnh sát (của bọn buôn lậu); tiền đút lót cho chủ rạp hát (để được phân phối nhiều vé hơn)",
+      "làm đóng băng, làm đông lại",
+      "phủ băng",
+      "ướp nước đá, ướp lạnh (rượu...)",
+      "phủ một lượt đường cô (mặt bánh)",
+      "( Ca-na-da) cho (một đội bóng gậy cong trên băng) ra đấu",
+      "đóng băng",
+      "bị phủ băng"
+    ],
+    "cau_en": "his excuses cut no ice with me",
+    "cau_vn": "những lời xin lỗi của hắn chẳng ăn thua gì tôi; những lời xin lỗi của hắn chẳng thuyết phục được tôi",
+    "hash_code_list_mean": "-620259445"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/idea_lv_1000_it.json",
@@ -1729,40 +1764,5 @@
     "cau_en": "he's too shy to ask a stranger the time , even less speak to a room full of people",
     "cau_vn": "anh ta nhút nhát đến nỗi không dám hỏi người lạ xem mấy giờ rồi, lại càng không dám nói với một phòng đông người",
     "hash_code_list_mean": "607817980"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/letter_lv_1000_it.json",
-    "id_item": "letter_lv_1000_it",
-    "id_album": "96538789",
-    "english": "letter",
-    "list_mean": [
-      "chữ cái, mẫu tự",
-      "thư; thư từ; thư tín",
-      "nghĩa chật hẹp, nghĩa mặt chữ",
-      "( số nhiều) văn học, văn chương",
-      "(từ Mỹ,nghĩa Mỹ) huy hiệu (tặng cho sinh viên có thành tích thể thao...) ( (thường) là tên tắt của trường)",
-      "viết chữ, khắc chữ lên, in chữ lên",
-      "(kỹ thuật) đánh dấu, in dấu"
-    ],
-    "cau_en": "fill your answers in capital letters , not small letters",
-    "cau_vn": "điền những câu trả lời của bạn bằng chữ hoa, không phải chữ thường",
-    "hash_code_list_mean": "-1669324313"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/let_lv_1000_it.json",
-    "id_item": "let_lv_1000_it",
-    "id_album": "96538789",
-    "english": "let",
-    "list_mean": [
-      "(từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở",
-      "(quần vợt) quả giao bóng chạm lưới",
-      "sự cho thuê",
-      "để cho, cho phép",
-      "cho thuê",
-      "hãy, để, phải"
-    ],
-    "cau_en": "to let the water out of the bath-tub",
-    "cau_vn": "để cho nước ở bồn tắm chảy ra",
-    "hash_code_list_mean": "-624972629"
   }
 ]

@@ -1,5 +1,34 @@
 [
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/can_lv_1000_it.json",
+    "id_item": "can_lv_1000_it",
+    "id_album": "90997657",
+    "english": "can",
+    "list_mean": [
+      "dụng cụ bằng kim loại hoặc chất dẻo để đựng hoặc chuyên chở chất lỏng",
+      "(cũng) tin hộp thiếc hoặc sắt tây gắn kín đựng thức ăn hoặc đồ uống để bán; đồ hộp",
+      "cái được chưa đựng hoặc khối lượng đựng trong một lon đồ hộp",
+      "( the can ) nhà tù, trại tù",
+      "( the can ) nhà xí",
+      "đóng hộp (thịt, cá, quả...)",
+      "ghi vào băng ghi âm, thu vào đĩa (bản nhạc)",
+      "(từ lóng) đuổi ra khỏi trường (học sinh); đuổi ra, thải ra",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) chấm dứt, chặn lại, ngăn lại",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) bỏ tù, bắt giam",
+      "chỉ khả năng",
+      "chỉ kỹ năng hoặc kiến thức có được",
+      "chỉ sự cho phép",
+      "chỉ lời yêu cầu, lời thỉnh cầu",
+      "chỉ sự có thể",
+      "chỉ sự hoang mang hoặc không tin",
+      "mô tả cách cư xử hoặc trạng thái điển hình",
+      "diễn tả lời gợi ý"
+    ],
+    "cau_en": "the boys could play football but the girls had to go to the library",
+    "cau_vn": "con trai có thể chơi đá bóng, nhưng con gái thì phải đến thư viện",
+    "hash_code_list_mean": "-1850383791"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/capital_lv_1000_it.json",
     "id_item": "capital_lv_1000_it",
     "id_album": "90997657",
@@ -1363,6 +1392,19 @@
     "hash_code_list_mean": "-1649408250"
   },
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/compassionate_lv_1000_it.json",
+    "id_item": "compassionate_lv_1000_it",
+    "id_album": "90997657",
+    "english": "compassionate",
+    "list_mean": [
+      "thương hại, thương xót, động lòng thương, động lòng trắc ẩn",
+      "thương hại, thương xót, động lòng thương, động lòng trắc ẩn"
+    ],
+    "cau_en": "she was allowed compassionate leave from work to attend her neighbour's funeral",
+    "cau_vn": "cô ta được phép nghỉ làm để đưa tang người hàng xóm",
+    "hash_code_list_mean": "310008257"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/compensation_lv_1000_it.json",
     "id_item": "compensation_lv_1000_it",
     "id_album": "90997657",
@@ -1717,35 +1759,5 @@
     "cau_en": "whisky contains a large percentage of alcohol",
     "cau_vn": "rượu uytky chứa một lượng cồn cao",
     "hash_code_list_mean": "312435373"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contaminate_lv_1000_it.json",
-    "id_item": "contaminate_lv_1000_it",
-    "id_album": "90997657",
-    "english": "contaminate",
-    "list_mean": [
-      "làm bẩn, làm ô uế",
-      "làm nhiễm (bệnh)",
-      "làm hư hỏng"
-    ],
-    "cau_en": "to be contaminated by companions",
-    "cau_vn": "bị bạn xấu làm hư hỏng",
-    "hash_code_list_mean": "1927227919"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/continue_lv_1000_it.json",
-    "id_item": "continue_lv_1000_it",
-    "id_album": "90997657",
-    "english": "continue",
-    "list_mean": [
-      "tiếp tục, làm tiếp",
-      "giữ, duy trì",
-      "vẫn cứ, tiếp diễn",
-      "ở lại",
-      "(pháp lý) hoãn lại, đình lại (một vụ kiện)"
-    ],
-    "cau_en": "if you continue to be stubborn",
-    "cau_vn": "nếu anh vẫn cứ cứng đầu cứng cổ",
-    "hash_code_list_mean": "-1687032602"
   }
 ]
